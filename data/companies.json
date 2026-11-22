@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Logitech",
+    "ticker": "LOGI",
+    "sells": "Mice, keyboards, webcams, headsets and other computer accessories",
+    "status": "live",
+    "reviews_from": "2016-01-01",
+    "reviews_to": "2016-12-31"
+  },
+  {
+    "name": "Crocs",
+    "ticker": "CROX",
+    "sells": "Footwear",
+    "status": "coming_soon"
+  },
+  {
+    "name": "GoPro",
+    "ticker": "GPRO",
+    "sells": "Action cameras and accessories",
+    "status": "coming_soon"
+  }
+]

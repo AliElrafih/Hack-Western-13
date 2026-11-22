@@ -1,0 +1,4666 @@
+[
+  {
+    "week_start": "2016-01-04",
+    "week_end": "2016-01-08",
+    "review_count": 1085,
+    "low_data": false,
+    "sentiment": 46.1,
+    "mix_pct": {
+      "positive": 74.4,
+      "neutral": 5.7,
+      "negative": 19.9
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 62,
+        "sentiment": -13.3
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 44,
+        "sentiment": 64.1
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 70.2
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 69.1
+      },
+      {
+        "parent_asin": "B0BXYXD1Q2",
+        "product": "B0BXYXD1Q2",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 67.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0036E8V08",
+        "posted": "2016-01-03",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 212,
+        "title": "Highly Recommended",
+        "excerpt": "I have been in the IT profession for 31 years now, and this is the best unit I have ever used. I have been using this combo unit for years, and love it. I am currently on my 2d combo unit, and getting ready to purchase my 3rd combo unit. PROS: Battery life. The batteries last longer than the imprinted characters on the keyboard. I have had my current combo unit 2 years, and the battery charge…"
+      },
+      {
+        "product": "B01C6ESQM6",
+        "posted": "2016-01-02",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 24,
+        "title": "LOUD!",
+        "excerpt": "This thing is loud. And in my opinion worth the money. If you want some speakers for simple listening purposes then look for something cheaper. If you want something loud with enough bass then go with these. I wanted something loud for work. I work around loud machines and these were perfect. Feel strong and sturdy also so hopefully they last a while"
+      },
+      {
+        "product": "B01798WTD6",
+        "posted": "2016-01-02",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 162,
+        "title": "High Hopes Dashed with Scratches",
+        "excerpt": "I've owned this case for just under a month at this point. I reserved my comments to give it some time to be used. I want to be as fair and balanced as I can with this review, so I will proceed, pro/con style. If you'd like to save yourself some time, please feel free to jump down to the con list. It's short, but important. Pros: • Construction: Overall, the construction of the device is nice.…"
+      },
+      {
+        "product": "B013IACVTQ",
+        "posted": "2016-01-08",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 35,
+        "title": "I'm extremely disappointed.",
+        "excerpt": "This case seems a haphazard addition to the Logitech lineup. While it might otherwise be an excellent product, it's almost a quarter of an inch too wide for the Samsung s2 9.7 Tablet. If you put enough strain into making the tablet fit, the corners bow away from the tablet. I specifically purchased this tablet and logitech keyboard case because the item works well for my father's ipad, so I'm…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-01-11",
+    "week_end": "2016-01-15",
+    "review_count": 982,
+    "low_data": false,
+    "sentiment": 44.7,
+    "mix_pct": {
+      "positive": 72.7,
+      "neutral": 7.1,
+      "negative": 20.2
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 55,
+        "sentiment": -12.0
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 61.3
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 32.1
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 63.4
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 34.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01LA5B0W0",
+        "posted": "2016-01-09",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 19,
+        "title": "The best",
+        "excerpt": "I love this thing. I have a feeling people who are having setup problems is because of themselves. As long as you have the make and EXACT model of what ever that it is you want to connect, it's simple. Also, I've had no problems what so ever with the app. It's clean, fast and works as it should. Highly recommended"
+      },
+      {
+        "product": "B01LW71IBJ",
+        "posted": "2016-01-14",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 10,
+        "title": "Dorm Room Goodness.",
+        "excerpt": "For the price I didn't expect much from these speakers, and when I got them they definitely exceeded my expectations. I have always been a fan of Yamaha audio equipment and when I was looking for a decent (cheap) set of 5.1 speakers for my Onkyo SR606 I came across this set and thought I'd give them a try. Much to my pleasure they work great! Overall i am very pleased to see how well this works…"
+      },
+      {
+        "product": "B01C6EY9WW",
+        "posted": "2016-01-15",
+        "stars": 3,
+        "sentiment": -45,
+        "helpful_votes": 33,
+        "title": "started out great, but the quality is starting to fade after less than 9 months of ownership",
+        "excerpt": "[[VIDEOID:46f5df5cc9a58ee049735132dd71839c]] these speakers were absolutely fantastic for the first 9 months i owned them, but just recently i noticed the audio would randomly cut out for just an instant at a time, but come right back. then, just now as i was playing something, it started happening more frequently, but i noticed that turning down the volume helped. now, its to the point that if i…"
+      },
+      {
+        "product": "B00IQBSW28",
+        "posted": "2016-01-12",
+        "stars": 2,
+        "sentiment": -80,
+        "helpful_votes": 16,
+        "title": "Uh, sorry, no monogomous bluetooth relationship commitments here",
+        "excerpt": "I am really disappointed, because I have a great sound system in my living area, and the one weakness (which feels increasingly major as time goes on) is getting it to play digital musical playlists... I have tried a few permutations, including a WD live. I was really hoping using this to stream into my system would do the trick, but it sounded so bad that I just ended up going back to less…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-01-18",
+    "week_end": "2016-01-22",
+    "review_count": 1296,
+    "low_data": false,
+    "sentiment": 49.0,
+    "mix_pct": {
+      "positive": 76.1,
+      "neutral": 6.2,
+      "negative": 17.7
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 64,
+        "sentiment": 64.3
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 62,
+        "sentiment": -27.6
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 52,
+        "sentiment": 66.3
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 37,
+        "sentiment": 38.5
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 62.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BK6SGHHB",
+        "posted": "2016-01-16",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 230,
+        "title": "Good for the money.",
+        "excerpt": "[[VIDEOID:641bcb00dac6dc61249639ef9293f42d]] I bought this webcam for my Speech class, and to upgrade from my old crappy webcam. Pros: * The software that comes with Logitech C615 is actually fairly good. It has some good features such as motion recording, and face tracking. * 1080P (I'm not sure if it is true 1080P, but it still looks great). Sample of 1080P (I recorded the video review in 720P…"
+      },
+      {
+        "product": "B0043T7FXE",
+        "posted": "2016-01-17",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 45,
+        "title": "Perfect for CAD [SolidWorks, Fusion-360, Unity, Cura, etc]",
+        "excerpt": "I have been using this mouse for the last 4 months and I am LOVING IT!! I purchased this primarily for use with SolidWorks, Fusion-360 and Unity &#60;- 3D modeling softwares. I am a power-CAD user: probably spend 6-7 hours a day on CAD (sometimes more). I have tried different brands and keep coming back to Logitech. I was hesitant at first to try the track-ball setup. But after a couple hours of…"
+      },
+      {
+        "product": "B003TG75EG",
+        "posted": "2016-01-18",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 351,
+        "title": "Double-Clicker Madness...",
+        "excerpt": "This mouse worked well for the first 6 months but then it started to double click every time time the left mouse button is pushed. After further researching this problem, I found that many other customers are having the same experience. It is too frustrating to continue using the mouse since it is clicking all over the place, especially when doing design work. It does have some nice features with…"
+      },
+      {
+        "product": "B004MF11MU",
+        "posted": "2016-01-22",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 32,
+        "title": "This has to be one of the worst ideas ever",
+        "excerpt": "This has to be one of the worst ideas ever. While there are people trying to save the planet by going green, Logitech decides to bet the life of this keyboard on the battery inside. once the battery goes bad -which in some cases that happens as soon as a couple of months, you have to throw it out. I've gone through 3 of these in the last couple of years, although two were replaced by either…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-01-25",
+    "week_end": "2016-01-29",
+    "review_count": 1245,
+    "low_data": false,
+    "sentiment": 49.0,
+    "mix_pct": {
+      "positive": 76.9,
+      "neutral": 6.8,
+      "negative": 16.3
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 58,
+        "sentiment": 3.4
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 56,
+        "sentiment": 56.4
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 51,
+        "sentiment": 68.4
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 49,
+        "sentiment": 71.9
+      },
+      {
+        "parent_asin": "B0BXYXD1Q2",
+        "product": "B0BXYXD1Q2",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 54.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00MUTWLW4",
+        "posted": "2016-01-23",
+        "stars": 4,
+        "sentiment": 80,
+        "helpful_votes": 13,
+        "title": "Awesome idea that offers you more options than a notebook.",
+        "excerpt": "I was going to buy a foldable Bluetooth keyboard to take on a cruise to do some writing on and then found this. This works great for my Note 4 and my Tab 2. I enjoy writing a lot and this way I have the best of several world's with lots of options rather than just have a notebook. The size and weight are fine, it functions as a table for for the devices at a really comfortable angle. The Android…"
+      },
+      {
+        "product": "B00IQBSW28",
+        "posted": "2016-01-27",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 9,
+        "title": "Bring your old stereo into the 21st century!",
+        "excerpt": "Wow. Way better sound quality than I thought. Also, I plugged the adapter power into the back of my old reciever as well. When I shut off the reciever the the adapter shuts down. The great thing is when I turn the reciever on it only takes the adapter a moment to find my phone again. The adapter also was uber easy to install and came with the RCA cable (don't buy one like I did). I'm definitely…"
+      },
+      {
+        "product": "B00LBGUVU6",
+        "posted": "2016-01-23",
+        "stars": 2,
+        "sentiment": -55,
+        "helpful_votes": 56,
+        "title": "Something to consider...",
+        "excerpt": "Bought at MicroCenter. The keyboard is nice. Lightweight, nice feel. Here's the caveat: The right side SHIFT key is a half-key. The other half is the UP ARROW. Why is this a problem? Because every time my right pinkie finger went to where it thinks is the SHIFT key, it finds the UP ARROW. This became VERY ANNOYING! So, I went to Logitech and found that they're no longer marketing the K410, but…"
+      },
+      {
+        "product": "B0043T7FXE",
+        "posted": "2016-01-23",
+        "stars": 3,
+        "sentiment": -40,
+        "helpful_votes": 31,
+        "title": "Don't buy if you have large hands.",
+        "excerpt": "I'm 6'4 and have large hands. This mouse doesn't work for me because I have to move my hand down for my middle finger to use the scroll wheel which then puts my hand off the mouse and puts pressure on the outside of my hand - defeating the purpose of an ergonomic mouse. If I put my palm all the way on the mouse, the scroll wheel can be used but requires a lot of effort by my middle finger and…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-02-01",
+    "week_end": "2016-02-05",
+    "review_count": 1158,
+    "low_data": false,
+    "sentiment": 46.5,
+    "mix_pct": {
+      "positive": 74.9,
+      "neutral": 6.0,
+      "negative": 19.1
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 61,
+        "sentiment": -18.1
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 41,
+        "sentiment": 59.1
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 39,
+        "sentiment": 70.5
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 76.8
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 34.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "B003VAHYNC",
+        "posted": "2016-01-30",
+        "stars": 5,
+        "sentiment": 60,
+        "helpful_votes": 196,
+        "title": "though I like my Logitech K360 and other Logitech mice",
+        "excerpt": "I decided to use bigger keyboard and mice at home, though I like my Logitech K360 and other Logitech mice. Pros: 1. well-designed keyboard. The palm cushion is a little soft which makes you wrist feel comfortable when you are not typing. It may take some time to get used to the gradual wave-shaped contour, but I think it's good too. 2. 18 programable keys. 3. The size of M510 mice is exactly what…"
+      },
+      {
+        "product": "B004OVECU0",
+        "posted": "2016-02-04",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 63,
+        "title": "The first universal remote I've tried that really WORKS!",
+        "excerpt": "I'm a veteran of the quest for a Universal Remote... one remote to rule them all, so to speak. I've bought a number of these over the years and they've never failed to disappoint. Some remotes had code numbers to enter for each device I wanted to control, and a long list of devices that somehow never included at least one component in my system. So then I'd begin the process of trying to find a…"
+      },
+      {
+        "product": "B095JX15XF",
+        "posted": "2016-02-04",
+        "stars": 1,
+        "sentiment": -70,
+        "helpful_votes": 12,
+        "title": "Don't buy the combo, mouse is very cheap",
+        "excerpt": "mouse was DOA. really really cheap quality The keyboard is fine for the price. I would recommend just buying the keyboard separate because the mouse is a total waste of money."
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-02-02",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 11,
+        "title": "Unresponsive touchpad.",
+        "excerpt": "This is great if you just want the keyboard, but if you actually want to use the touchpad, look elsewhere. I went through two of these, thinking the first was just a defective unit, and the touchpads on both were flaky. Sometimes it worked properly, other times the cursor would barely move, or skip around, or not respond at all."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-02-08",
+    "week_end": "2016-02-12",
+    "review_count": 1078,
+    "low_data": false,
+    "sentiment": 48.5,
+    "mix_pct": {
+      "positive": 75.4,
+      "neutral": 7.0,
+      "negative": 17.6
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 52,
+        "sentiment": -13.0
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 50,
+        "sentiment": 54.5
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 49,
+        "sentiment": 59.1
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 60.6
+      },
+      {
+        "parent_asin": "B0BXYXD1Q2",
+        "product": "B0BXYXD1Q2",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 42.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BS1615YC",
+        "posted": "2016-02-11",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 472,
+        "title": "Got longer use out of it than I ever expected!",
+        "excerpt": "I've had this headset for almost a year now, and at first I thought that it was a good one just to start with because of its cheaper price range. I got it so I wouldn't have wasted much money if I didn't end up liking my new job that required its use. I teach online classes and this headset is great! Totally compatible with Adobe Classroom, which I use with Google Chrome. I've never had any tech…"
+      },
+      {
+        "product": "B00BQ5RY1G",
+        "posted": "2016-02-12",
+        "stars": 5,
+        "sentiment": 60,
+        "helpful_votes": 45,
+        "title": "This is a great remote! I got this when it was on ...",
+        "excerpt": "This is a great remote! I got this when it was on the deal of the day. Overall it is a good upgrade from the Harmony 650, and the MyHarmony software allows you to transfer your settings from an old Logitech remote to this one. Pros: -Nice sleek design. -Touch screen, good dots per inch so could be read with ease. -Ability to change Icons for activities to anything you upload through the software…"
+      },
+      {
+        "product": "B00WMLOQEG",
+        "posted": "2016-02-08",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 11,
+        "title": "Doesn't work and Logitech not helping.",
+        "excerpt": "We bought this for our son's laptop. He's knowledgeable with computers and equipment, but this cam causes his system to crash. He figured out a way to get it to working temporarily, once and tried to skype, it wouldn't work. Neither would Facebook video chat work with it. We finally were able to use it with google video chat, but the picture/sound quality was poor. It has continued to cause…"
+      },
+      {
+        "product": "B003VANOFY",
+        "posted": "2016-02-08",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 10,
+        "title": "Avoid like the plague, cuts out constantly, not physically durable, better sounding headsets do exist",
+        "excerpt": "These sound good for a while, but then they will eventually cut out continuously. I have tried running the channel fixing in the registry, I have tried uninstalling and reinstalling the drivers/gaming software, I have changed the battery life registry setting from 900 to 0, and I have gone to several forums. I have even located an old driver, installed it, had no effect on the cutting issue. I've…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-02-15",
+    "week_end": "2016-02-19",
+    "review_count": 1070,
+    "low_data": false,
+    "sentiment": 44.2,
+    "mix_pct": {
+      "positive": 73.5,
+      "neutral": 5.7,
+      "negative": 20.8
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 55,
+        "sentiment": -30.6
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 46,
+        "sentiment": 52.7
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 44,
+        "sentiment": 59.2
+      },
+      {
+        "parent_asin": "B0BXYXD1Q2",
+        "product": "B0BXYXD1Q2",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 66.8
+      },
+      {
+        "parent_asin": "B01C6ESQM6",
+        "product": "B01C6ESQM6",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 41.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "B083JFTZMN",
+        "posted": "2016-02-16",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 176,
+        "title": "We've come a long way from AT&T's dream of picture ...",
+        "excerpt": "We've come a long way from AT&T's dream of picture phones or the massive equipment needed to video tele-conference. Picture quality, light metering and focus are spot-on in auto. But you can tweek picture elements to suit your taste."
+      },
+      {
+        "product": "B00009OY9U",
+        "posted": "2016-02-13",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 102,
+        "title": "Cheap, works great, has plenty of buttons and hooray!",
+        "excerpt": "I bought this for one series of games: X-Wing, Tie Fighter, X-Wing Alliance and XW vs TF. I must say...despite how old these games are(though I admit I am playing versions I downloaded on Steam), this works perfectly. Every button maps to something, which is great as these games use the whole keyboard. It isnt hard to set up at all and there seems to be no disconnect between 2015 hardware and a…"
+      },
+      {
+        "product": "B01C6EY9WW",
+        "posted": "2016-02-18",
+        "stars": 1,
+        "sentiment": -50,
+        "helpful_votes": 189,
+        "title": "Terrible Product... but Amazon saves the day!",
+        "excerpt": "Was excited to get my brand new set of speakers today. Logitech is known to make a quality product, so I was quite surprised to find that the speakers intermittently emit a static every few seconds. Reading through the reviews, this seems to be a common occurrence. Shame on you Logitech for putting a shotty product on the market... I went to try to return the product only to find that it is not…"
+      },
+      {
+        "product": "B002HWRJBM",
+        "posted": "2016-02-14",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 18,
+        "title": "Done with Logitech - cheap switches, poor tracking, short battery life.",
+        "excerpt": "I'm used to replacing Logitech mice every year or so due to the widely reported double click issues. Now the tracking has degraded horribly on this latest Performance MX. I see no dust or anything obscuring the lens. About the only way it will track is too use an old precision grid mouse pad I had laying around from the early days of laser mice. So much for darkfield. I love the convenience of…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-02-22",
+    "week_end": "2016-02-26",
+    "review_count": 1042,
+    "low_data": false,
+    "sentiment": 50.2,
+    "mix_pct": {
+      "positive": 77.4,
+      "neutral": 5.5,
+      "negative": 17.2
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 50,
+        "sentiment": 70.6
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 44,
+        "sentiment": 62.5
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 37,
+        "sentiment": -31.4
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 65.0
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 59.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0043T7FXE",
+        "posted": "2016-02-23",
+        "stars": 4,
+        "sentiment": 60,
+        "helpful_votes": 32,
+        "title": "Works great very little lag, Good for day to day use maybe not so much for gaming.",
+        "excerpt": "This trackball works just as well if not better than the wired model that some jerks are selling for $200+ dollars.They justify the high price by saying that the wired mouse is so much better and has become some sort of highly desired item. I agree that the trackball is a great product and have been looking for another for a reasonable price and I've been shying away from the wireless one due to…"
+      },
+      {
+        "product": "B07FP8Q6ZH",
+        "posted": "2016-02-21",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 29,
+        "title": "The LOGITECH PTZ pro is awesome. I do professional video conferencing systems made by ...",
+        "excerpt": "I needed a PTZ USB solution that was a bargain, and I found it. The LOGITECH PTZ pro is awesome. I do professional video conferencing systems made by Lifesize, Polycom, Cisco so I know what the best PTZ cameras can do. That being said, I am satisfied with this inexpensive, professional looking camera. It is not perfect, but, it is nice. There are 3 presets, and they are not as robust as a…"
+      },
+      {
+        "product": "B004OVECU0",
+        "posted": "2016-02-25",
+        "stars": 2,
+        "sentiment": -65,
+        "helpful_votes": 25,
+        "title": "Works great! Until it doesn't.",
+        "excerpt": "[[VIDEOID:6957763c72b22c2b677da2a9c7b20b7]] I purchased the Harmony 650 on June 9, 2015. Until writing this review I have been completely satisfied, however this remote seems to be resetting when I try to operate any of my devices recently. Description: When I press a button - for instance turning up the volume on my home theater - the screen will go blank and I cannot operate the remote any…"
+      },
+      {
+        "product": "B003NR57BY",
+        "posted": "2016-02-23",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 7,
+        "title": "fundamental design flaw, although not so detectable by users less needing of precision",
+        "excerpt": "Wow, I need to do a better job reading negative reviews before I purchase something as personally important as a mouse. The mouse seems well constructed, pretty, etc. But it feels incredibly clumsy in actual use, as judged by where the pointer actually winds up on the screen. I couldn't figure out why. It's as though sometimes, it would only go about half as fast as it should in the vertical…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-02-29",
+    "week_end": "2016-03-04",
+    "review_count": 1258,
+    "low_data": false,
+    "sentiment": 50.8,
+    "mix_pct": {
+      "positive": 77.7,
+      "neutral": 6.3,
+      "negative": 16.1
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 53,
+        "sentiment": -7.4
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 50,
+        "sentiment": 72.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 44,
+        "sentiment": 67.7
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 47.0
+      },
+      {
+        "parent_asin": "B003VANO7C",
+        "product": "B003VANO7C",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 50.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B019OB663A",
+        "posted": "2016-02-29",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 310,
+        "title": "WANT TO IMPROVE ALL YOUR COMPUTER SKILLS > Get this mouse!!!",
+        "excerpt": "[[VIDEOID:824e3e123522e5ba9e880e48786ad697]] ORDERED = 07/26/2016 || SELLER = Amazon.com LLC || PAID = $59.99 (Beware of Seller changes! That's when you may get burned!) :: PRO :: 1.) Replaced a $100.00 Logitech Laser Cordless &amp; it does a better job by far! 2.) I like the weight &amp; use most of them, preferring a heavier mouse. 3.) I'm about 6'-6&quot; and little over 200 lbs - this thing…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-03-04",
+        "stars": 5,
+        "sentiment": 80,
+        "helpful_votes": 10,
+        "title": "HTPC keyboard is perfect with Logitech software and slight mod to battery door.",
+        "excerpt": "Great keyboard for HTPC. I found that it is even better once you install the Logitech Options software so that you can remap keys, setup two finger tap to right click and two finger scroll. Only downsides are the narrow backspace key and the batteries would rattle around inside. I resolved the battery issue by sticking a couple felt furniture bumpers inside the battery door."
+      },
+      {
+        "product": "B016QO85WS",
+        "posted": "2016-02-29",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 33,
+        "title": "WARNING: Defective bulk product",
+        "excerpt": "First, I am the owner of two Logitech M705 mice for each of my computers. I have owned both mice for about 4 years, and love the way this mouse fits my hand and the hyper-scroll feature. About a year ago, each mouse began exhibiting the well documented issue of ghost double-left clicks, and the button not holding (drag-n-drop was impossible). Since each mouse was way beyond the warranty, I had…"
+      },
+      {
+        "product": "B00TZR3WRM",
+        "posted": "2016-03-01",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 24,
+        "title": "Great for 5 hours.",
+        "excerpt": "Mouse WAS nice for the first day I used it. Then all of a sudden the ratchet scroll stopped working. I've done everything mentioned on their support forums to no avail. For this price, you'd think it wouldn't break within 5 hours of use."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-03-07",
+    "week_end": "2016-03-11",
+    "review_count": 1079,
+    "low_data": false,
+    "sentiment": 47.9,
+    "mix_pct": {
+      "positive": 76.1,
+      "neutral": 5.7,
+      "negative": 18.3
+    },
+    "top_products": [
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 53,
+        "sentiment": 66.7
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 58.7
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 44,
+        "sentiment": 65.8
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 36,
+        "sentiment": -20.8
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 62.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01LA5B0W0",
+        "posted": "2016-03-05",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 12,
+        "title": "Really great and lot of fun with Echo/SmartThings however activity creation needs a little tweak",
+        "excerpt": "Works as described. I got this so my Amazon Echo can control everything. (You will also need a Smart Things Hub to interface with Echo). Making all this work was cumbersome but it is pretty cool. Now I can say Alexa bring up Netflix. It will turn on the TV, select the proper input for the roku, and command roku to goto the Netflix channel! So now Im not fumbling with 2 different remotes and…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-03-05",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 10,
+        "title": "My Logitech Wireless Touch Keyboard K400 Plus was the key to making the HDMI PC stick solution a success for streaming movies.",
+        "excerpt": "Some have been asking me about our discoveries in pursuing movie streaming solutions for our TV. The Roku 1 worked out best for our 4:3 aspect ratio tube TV but only for playing Amazon Instant Video. To watch free movies from our public library, through Hoopladigital.com I purchased a Lenovo - Ideacentre Stick 300 with a Logitech Wireless Touch Keyboard K400 Plus. With the Microsoft Edge browser,…"
+      },
+      {
+        "product": "B003NR57BY",
+        "posted": "2016-03-11",
+        "stars": 1,
+        "sentiment": -75,
+        "helpful_votes": 87,
+        "title": "Not a genuine Logitech Mouse? Possible knockoff?",
+        "excerpt": "Having just received the mouse in the mail, a couple things didn't seem right from the get-go. First I noticed that although I bought the &#34;blue&#34; mouse, it looked nothing like the mouse I had bought at an office supplies store sometime last year. The mouse I had bought previously was the EXACT same mouse (model: M510), same color (blue) as the one I just bought from Amazon (purchased March…"
+      },
+      {
+        "product": "B01C6EN23O",
+        "posted": "2016-03-11",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 20,
+        "title": "Ongoing 4 Year old defect. Be willing to return it.",
+        "excerpt": "I bought this system to replace the 7.1 I did have that died after 11 years. So the specs on this system are very nice. Heck, I was drooling over here. I wanted to like this system. I thought it would be perfect for my gaming and my home theater when that system dies. I set everything up and plug in the power supply and the system gives one loud pop (this is normal apparently according to the…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-03-14",
+    "week_end": "2016-03-18",
+    "review_count": 981,
+    "low_data": false,
+    "sentiment": 47.3,
+    "mix_pct": {
+      "positive": 74.6,
+      "neutral": 7.3,
+      "negative": 18.0
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 67.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 61.7
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 42,
+        "sentiment": 60.3
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 38,
+        "sentiment": -23.7
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 45.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00LTKGFDQ",
+        "posted": "2016-03-18",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 54,
+        "title": "Easier pair method",
+        "excerpt": "I love this system. It works great. I bought the add-on remote because I fried mine with an epic plumbing mishap. The instructions for pairing it are stupid. There is a pair button on the back of your hub. Push it. The light will flash red. The hold down mute+menu for five seconds and let go. Done. Much easier than messing with the app or whatever nonsense is in the setup instructions. Just…"
+      },
+      {
+        "product": "B01645FHFC",
+        "posted": "2016-03-14",
+        "stars": 4,
+        "sentiment": 75,
+        "helpful_votes": 4,
+        "title": "Serves Well At Notifying Me of UnAuthorized Activity While I'm Away!",
+        "excerpt": "[[VIDEOID:5f85bbefce19ac36e74af6329013ab72]] The Logi Circle Portable Wi-Fi Video Monitoring Camera by Logitech was nicely packed and came with the following: the camera, the charging ring, 10 foot USB cable, power adapter and mounting hardware. I received this camera ten days ago and it has been in use for the past nine days and continues to be in use. My husband and I have been shopping for a…"
+      },
+      {
+        "product": "B00TZR3WRM",
+        "posted": "2016-03-15",
+        "stars": 1,
+        "sentiment": -70,
+        "helpful_votes": 48,
+        "title": "Beautiful mouse with a FATAL FLAW!",
+        "excerpt": "I don't typically write reviews but I just had to for this POS product. The physical problem with the MX Master is that the $75-$100 mouse uses extremely cheap plastic on the inside. The mouse feels fantastic in the hand, but the parts that matter will wear out and fail within days of any type of regular use. I'm a web developer and use this mouse between 3 different systems, so it's used 12+…"
+      },
+      {
+        "product": "B01ANJ6C0O",
+        "posted": "2016-03-13",
+        "stars": 2,
+        "sentiment": -70,
+        "helpful_votes": 14,
+        "title": "Don't buy this battery or the printer it goes on...",
+        "excerpt": "This battery for the Canon Selphy CP 1200 works on this printer fairly well. The problem being is that you never know when the battery is fully charged, there is no indicator of any type to indicate that the battery is charged. Canon really dropped the ball on this product, the instructions that came with it are at best laughable. No specifics of any sort are written basically what you are…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-03-21",
+    "week_end": "2016-03-25",
+    "review_count": 1046,
+    "low_data": false,
+    "sentiment": 48.6,
+    "mix_pct": {
+      "positive": 75.5,
+      "neutral": 7.0,
+      "negative": 17.5
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 57,
+        "sentiment": 64.8
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 48,
+        "sentiment": 70.7
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 52.5
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 43,
+        "sentiment": -11.3
+      },
+      {
+        "parent_asin": "B003VANO7C",
+        "product": "B003VANO7C",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 37.1
+      }
+    ],
+    "examples": [
+      {
+        "product": "B006JH8T3S",
+        "posted": "2016-03-21",
+        "stars": 5,
+        "sentiment": 75,
+        "helpful_votes": 1705,
+        "title": "Great 1080p webcam for under $70",
+        "excerpt": "[[VIDEOID:b115c64b86f4e1a891f6de41e2297b7b]] Great webcam that takes crisp clean videos even at 1080p 30fps and 1080p 60fps. You have to get different software to get it to run at 60fps and your computer has to be able to handle the load that is placed on the processor. I did a few test pictures and videos and I was impressed with the quality. Sound is decent but you have to sit close to the…"
+      },
+      {
+        "product": "B005GTNZUM",
+        "posted": "2016-03-25",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 17,
+        "title": "4000 hours of use and still a champ. If I could have only one headset, this would be it.",
+        "excerpt": "I bought the Logitech h800 from an Amazon competitor in July 2012 for about $85, to use primarily for Skype and video game chat on PC. Since then, I've used this headset an average of about 20 hours a week, or roughly 4000 hours total. Of all the headsets and headphones I've ever owned, this one has been BY FAR the most versatile and the best value. Here's what I love about it: As a chat headset,…"
+      },
+      {
+        "product": "B08ZFS2NFC",
+        "posted": "2016-03-25",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 95,
+        "title": "What do I do with these crappy things?",
+        "excerpt": "I bought 31 for my class. The first day one fell over on its side and stopped working. Since then eight more have stopped working. Where do I return these junky things?"
+      },
+      {
+        "product": "B019OB663A",
+        "posted": "2016-03-23",
+        "stars": 2,
+        "sentiment": -40,
+        "helpful_votes": 21,
+        "title": "Mouse is almost perfect, but the one flaw I see is a deal breaker for me.",
+        "excerpt": "Update 3/25/2015... I found the perfect way to fix the wheel slippage issue...see photo attached... ------------------------------------------------------------------------ It is a great mouse and has everything i ever hoped on the mouse...unfortunately, the ONE issue that bothers me is a deal breaker. The wheel of the mouse is metallic and very slippery. When in ratchet mode, i can scroll…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-03-28",
+    "week_end": "2016-04-01",
+    "review_count": 890,
+    "low_data": false,
+    "sentiment": 46.5,
+    "mix_pct": {
+      "positive": 74.8,
+      "neutral": 6.6,
+      "negative": 18.5
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 67.4
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 70.7
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 22.3
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 29,
+        "sentiment": -13.0
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 54.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BPN2DXC1",
+        "posted": "2016-03-29",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 282,
+        "title": "Great keyboard for convenience and portability.",
+        "excerpt": "To quickly summarize, I would recommend this keyboard as an extra keyboard for traveling or a backup. Also if you like to switch between Windows, Mac, iOS, Android, or Linux a lot then this keyboard is a very affordable option. I would not recommend this keyboard as your star player for typing. There are better options for desktops. To start off, I mainly use any keyboard for web browsing, some…"
+      },
+      {
+        "product": "B00VM984YC",
+        "posted": "2016-03-30",
+        "stars": 5,
+        "sentiment": 98,
+        "helpful_votes": 18,
+        "title": "Impossibly thin and light while maintaining good key action feel!",
+        "excerpt": "Are you kidding me? - That's what I thought when I first pulled this out of the box. I could not believe how thin this thing actually was. I didn't think I could possibly like it until I tried it and realized that yes, you can still get good key action and a great typing experience with something that could almost give you a papercut. Logitech has hit another home run as far as I'm concerned with…"
+      },
+      {
+        "product": "B00TZR3WRM",
+        "posted": "2016-03-28",
+        "stars": 2,
+        "sentiment": -80,
+        "helpful_votes": 70,
+        "title": "Bad mouse housing design around the wheel",
+        "excerpt": "Bad mouse housing design around the wheel. The mouse styling has raised ridge right through the center of the mouse. Therefore the gap between the wheel and the mouse housing toward the back of the mouse is larger than in other mouses, triangular in shape. This causes finger skin to be pinched between the wheel and mouse housing edge when rotating the wheel backwards. Even worse, the housing edge…"
+      },
+      {
+        "product": "B08D8KLVRG",
+        "posted": "2016-03-30",
+        "stars": 2,
+        "sentiment": -70,
+        "helpful_votes": 41,
+        "title": "OK mouse, SetPoint software ruins it.",
+        "excerpt": "Have used Logitech mice and keyboards for years, and have always had no issues. Think this is likely more of a problem with their SetPoint software than the actual hardware. Seemed to work OK when I first hooked it up. But then I got a case of stupid a couple of days later and downloaded/installed the Logitech software and it's been a disaster ever since. I work in AutoCAD a lot, and the scroll…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-04-04",
+    "week_end": "2016-04-08",
+    "review_count": 734,
+    "low_data": false,
+    "sentiment": 44.7,
+    "mix_pct": {
+      "positive": 73.0,
+      "neutral": 6.4,
+      "negative": 20.6
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 74.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 55.0
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 81.2
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 26,
+        "sentiment": -30.6
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 18.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00BQ5RYI4",
+        "posted": "2016-04-08",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 65,
+        "title": "IR Blaster really BLASTS!",
+        "excerpt": "This is a really impressive system. Despite being a long time, mostly satisfied, Harmony user, I hesitated buying the hub version because I was convinced it would not work well in my setup where the only practical placement of the the hub is directly on-top of and vertically adjacent to the devices it would be controlling (see picture). The term &#34;IR blaster&#34; seems appropriate enough in…"
+      },
+      {
+        "product": "B004MF11MU",
+        "posted": "2016-04-04",
+        "stars": 4,
+        "sentiment": 45,
+        "helpful_votes": 22,
+        "title": "I can easily say right off the bat that this keyboard is ...",
+        "excerpt": "Pros: I can easily say right off the bat that this keyboard is a logical step towards solving the one weakness all wireless keyboards had: a battery life. It also looks so stylish on the computer desk that isn't cluttered with wires. (Seriously, google some pictures. It looks modern and minimalist) + It is powered by the sun. + Very slim keyboard. + Very comfortable to type on. (For a rubber dome…"
+      },
+      {
+        "product": "B01798WTD6",
+        "posted": "2016-04-03",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 138,
+        "title": "Not just worst keyboard, but the worst product I've ever used.",
+        "excerpt": "Let me preface this by saying that I've been a heavy user of technology for 25 years - and that prior to this disaster of a keyboard case, Logitech was my favourite brand of keyboard. I got an iPad Pro to do two main things: word processing for reports, academic papers, etc for my job as a healthcare professional, and for drawing and editing for my job as an educator. Believe it or not, this Logi…"
+      },
+      {
+        "product": "B00TZR3WRM",
+        "posted": "2016-04-02",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 43,
+        "title": "Cheaply made wheel breaks easily, rendering mouse useless. Awful support. Waste of 75 bucks!",
+        "excerpt": "I've always loved Logitech mice, and when my trusty old MX 518 started having USB connection issues after years and years of (over)use, I thought I'd upgrade to this model. BIG mistake. I wanted to love this mouse so badly. It's excellent in almost every way. The precision, the size, the weight, the grip, the clicking, and the horizontal scrollwheel are all excellent. But the main scroll wheel is…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-04-11",
+    "week_end": "2016-04-15",
+    "review_count": 681,
+    "low_data": false,
+    "sentiment": 41.3,
+    "mix_pct": {
+      "positive": 71.8,
+      "neutral": 6.5,
+      "negative": 21.7
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 77.4
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 30,
+        "sentiment": -45.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 62.2
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 24,
+        "sentiment": 55.2
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 23,
+        "sentiment": 49.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00O90HGKY",
+        "posted": "2016-04-11",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 18,
+        "title": "Exactly what I needed",
+        "excerpt": "Fell in love with this keyboard at first sight. Typing is comfortable as it feels like I'm typing on a full sized keyboard. It is sleek and looks nice. It's plug and play and no setup required. I recently bought an iPad Pro and this keyboard complements it very nicely. All the shortcuts I need work as expected. There is the home and lock buttons. Press the home button on the keyboard for a couple…"
+      },
+      {
+        "product": "B01BBKZ520",
+        "posted": "2016-04-11",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 14,
+        "title": "Incredible device, especially for the price.",
+        "excerpt": "So far we have been very pleased with the Logitech Group. It's a huge step up from the way we were doing conference calls before, which is a pretty much weekly occurrence. The audio quality is great, especially with the remote mics for our bigger groups. Video quality is good too. Pretty standard for a higher-end webcam. The zoom is pretty impressive. Set up was super simple and it works well…"
+      },
+      {
+        "product": "B00TZR3WRM",
+        "posted": "2016-04-15",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 56,
+        "title": "How is this mouse so highly rated??",
+        "excerpt": "*Be careful buying this mouse* Somehow this thing gets sparkling reviews everywhere you look. Dig a little deeper and you'll find a nasty problem with the scroll wheel's &#34;ratchet mode&#34; breaking and the scroll wheel will just free spin. Browsing web pages, trying to get editing done, it's impossible with the scroll wheel moving simply from moving the mouse around. This is a common problem…"
+      },
+      {
+        "product": "B01LA5B0W0",
+        "posted": "2016-04-11",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 53,
+        "title": "DO NOT BUY THIS PRODUCT!!",
+        "excerpt": "The unit I received has a Re-Ceritifed Sticker on the side of the box and the serial number on the unit was blacked out with a sharpie. I waited too long to return this product so I'm out the money, but I can at least leave a bad review! The unit seemed to work for about an hour then crashed. It's a paperweight now."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-04-18",
+    "week_end": "2016-04-22",
+    "review_count": 830,
+    "low_data": false,
+    "sentiment": 46.0,
+    "mix_pct": {
+      "positive": 74.7,
+      "neutral": 5.7,
+      "negative": 19.6
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 56,
+        "sentiment": 60.4
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 49.6
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 32,
+        "sentiment": -0.8
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 46.2
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 34.0
+      }
+    ],
+    "examples": [
+      {
+        "product": "B003VAHYQY",
+        "posted": "2016-04-20",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 129,
+        "title": "Nice replacement Controller",
+        "excerpt": "I have been using an Xbox 360 controller for PC gaming because the controller was familiar, and I find it the most comfortable. My controller was starting to act up, and I knew I had to replace it real soon. I have had some luck with Logitech mice and keyboards in the past, and figured, well, it ain't gonna break the bank, let's give it a whirl. The joystick configuration is similar to the…"
+      },
+      {
+        "product": "B08V9VN5Q6",
+        "posted": "2016-04-21",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 47,
+        "title": "Smooth and Comfortable Mouse",
+        "excerpt": "I bought this mouse for at home using my laptop. I love this mouse. I feel that it is the perfect size for my hands. I attached a picture of how the mouse fits in my hands. The size of it makes it easy to travel with. I haven't had any blue tooth connections issues either. I was skeptical about buying this mouse because I saw some complaints about the scrolling. I actually love the scrolling, it…"
+      },
+      {
+        "product": "B004OVECU0",
+        "posted": "2016-04-20",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 5,
+        "title": "The Harmony 650 looked nice enough, with a cool LCD screen feature",
+        "excerpt": "Purchased in mid-January. Quirks by February. Failure in April. I purchased this remote to replace a more standard Logitech universal remote (the indicators and numbers on the buttons had severely worn away, but that's another matter). The Harmony 650 looked nice enough, with a cool LCD screen feature. After about 30 - 40 minutes of registering it with Logitech, downloading software, online…"
+      },
+      {
+        "product": "B00E7IPN0I",
+        "posted": "2016-04-17",
+        "stars": 3,
+        "sentiment": -30,
+        "helpful_votes": 5,
+        "title": "Not full size mouse.",
+        "excerpt": "They should include the size of the actual product not the packaging"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-04-25",
+    "week_end": "2016-04-29",
+    "review_count": 1015,
+    "low_data": false,
+    "sentiment": 48.0,
+    "mix_pct": {
+      "positive": 76.6,
+      "neutral": 6.0,
+      "negative": 17.4
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 56,
+        "sentiment": 67.8
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 47,
+        "sentiment": 61.6
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 60.5
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 39,
+        "sentiment": 0.9
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 58.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01798WTD6",
+        "posted": "2016-04-29",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 11,
+        "title": "Great keyboard, the magnetic connection to the iPad Pro ...",
+        "excerpt": "Great keyboard, the magnetic connection to the iPad Pro is super strong. Love the backlit keyboard and all the extra short cut buttons that come with it. IMO turns the iPad Pro into a laptop replacement"
+      },
+      {
+        "product": "B07P1FN7KQ",
+        "posted": "2016-04-24",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 9,
+        "title": "Great rich, full, clean sound, love these!",
+        "excerpt": "I just bought these today and hooked them up after spending quite a bit of time comparing various speakers. I am so glad I picked these! They have a rich, full, clean sound in all ranges. I have my computer sound set mid level and adjust volume on speaker. Easy to set up. Great price too. Loving these!"
+      },
+      {
+        "product": "B00U317VOY",
+        "posted": "2016-04-25",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 16,
+        "title": "Broke in 2 months with no response from the seller - stuck with a broken case",
+        "excerpt": "This logitech ipad cover broke about couple months after I bought it on Amazon. The clip that hold the ipad broke as you can see in the picture. It was not dropped and suffered no &#34;stress&#34; other than regular usage. It was for my work and I handled it with a lot of care. The product is clearly of poor quality and the customer service was unresponsive when I wrote to the seller."
+      },
+      {
+        "product": "B01645FHN4",
+        "posted": "2016-04-25",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 15,
+        "title": "simply put - this is an incomplete product. there ...",
+        "excerpt": "simply put - this is an incomplete product. there is a major issue with camera re-connection for home WIFI networks that are not 100% reliable. this camera simply would not reconnect. the longest I had this camera working was 2 days straight in the past month. needless to say the camera needs to reconnect as a security product otherwise whats the purpose of this camera? I am very frustrated and…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-05-02",
+    "week_end": "2016-05-06",
+    "review_count": 974,
+    "low_data": false,
+    "sentiment": 49.3,
+    "mix_pct": {
+      "positive": 77.0,
+      "neutral": 5.5,
+      "negative": 17.5
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 56,
+        "sentiment": 73.4
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 41,
+        "sentiment": 55.6
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 67.8
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 5.0
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 41.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01LVVG5XS",
+        "posted": "2016-05-05",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 690,
+        "title": "For the price these cannot be beat!",
+        "excerpt": "I purchased these speakers for my office computer. I have used these for over 6 months now and I must say I am really really impressed. The sound quality is great I have had zero issues whatsoever with this product. These are great desktop speakers. Full range, beautiful sound easy to install and use. To be honest I didnt test these out at the loudest setting since I really never had the need to…"
+      },
+      {
+        "product": "B002MMY4WY",
+        "posted": "2016-05-02",
+        "stars": 4,
+        "sentiment": 30,
+        "helpful_votes": 223,
+        "title": "Recommended, BUT CONSIDER AN EXTENDED WARRANTY!",
+        "excerpt": "Good compromise between ease of use and ergonomic design. The keys have a good action, and are fairly quiet. The built in wrist pad makes long term use more comfortable. Battery life seems good. I never really used any of the grey keys, so I can't comment on those. This is the second unit I've had. The first lasted about 2.5 years of heavy use: about 7 hours a day, 5 days a week. After lots of…"
+      },
+      {
+        "product": "B00ION89I0",
+        "posted": "2016-05-04",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 44,
+        "title": "I really liked the headphones",
+        "excerpt": "I teach English on Skype while visiting various countries, and bought one of these in June 2015 to use for work. At first, I really liked the headphones. That was because they were light and very comfortable- instead of cheap foam, the earpieces have nice, soft fabric. Also, the cable was far more robust than the one used on Logitech's lower-end models; I thought this augured well for durability.…"
+      },
+      {
+        "product": "B019OB663A",
+        "posted": "2016-05-04",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 35,
+        "title": "Wire quality is horrible",
+        "excerpt": "the wire brading is broken because of the twist in it. i cant even get the wire straight unless i remove the braid. unsat"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-05-09",
+    "week_end": "2016-05-13",
+    "review_count": 809,
+    "low_data": false,
+    "sentiment": 47.2,
+    "mix_pct": {
+      "positive": 75.9,
+      "neutral": 5.6,
+      "negative": 18.5
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 48,
+        "sentiment": 68.5
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 70.8
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 38.0
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 70.9
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 62.0
+      }
+    ],
+    "examples": [
+      {
+        "product": "B019OB663A",
+        "posted": "2016-05-12",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 247,
+        "title": "My Husband was a Bit Skeptical of This Mouse Because of the Cost but It is Really Growing On Him!",
+        "excerpt": "I'd like to preface this review by stating that, even though I am not the primary user of this mouse, my incredibly patient husband took a lot of time answering my many questions about this mouse, demonstrated what it does, and read through my review before I submitted it so all of the information in here is accurate. My husband is an IT guy and computer gamer so he always purchases a…"
+      },
+      {
+        "product": "B083JFTZMN",
+        "posted": "2016-05-09",
+        "stars": 5,
+        "sentiment": 80,
+        "helpful_votes": 186,
+        "title": "Got This For Streaming",
+        "excerpt": "This webcam is better than I expected it to be. I was initially drawn to the price, and the fact that it can just rest over a monitor. PROS: - This cam takes a really nice picture and records or streams crisp, and without blur or distortion. It worked better than my laptops built in cam. - I can place it on my secondary laptop, or in a different area of my desk, to get multiple angles while…"
+      },
+      {
+        "product": "B0BVZZ36ZL",
+        "posted": "2016-05-09",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 81,
+        "title": "Double clicking failure",
+        "excerpt": "I received the mouse and it worked great for about a month. Then the left button started registering two or three clicks for each press of the mouse button. It was truly maddening. By the time I figured out what it was doing, I was beyond the 30 day return window to Amazon. It is still within the manufacturer's guarantee, but it may be more trouble than it's worth to return it. If you find your…"
+      },
+      {
+        "product": "B003NR57BY",
+        "posted": "2016-05-13",
+        "stars": 2,
+        "sentiment": -60,
+        "helpful_votes": 36,
+        "title": "Potential Counterfeit. Beware!!!",
+        "excerpt": "The mouse is probably great, however, the one I received was counterfeit. I did create a video on how to spot a counterfeit mouse but that is all it was good for. Contacted Amazon and they are sending me a new one, hopefully, this one will be original Logitech. I use their products a lot and can spot one a mile away."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-05-16",
+    "week_end": "2016-05-20",
+    "review_count": 815,
+    "low_data": false,
+    "sentiment": 45.0,
+    "mix_pct": {
+      "positive": 73.6,
+      "neutral": 7.4,
+      "negative": 19.0
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 49,
+        "sentiment": 45.5
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 63.2
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 35,
+        "sentiment": -25.3
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 55.5
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 67.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00MUTWLW4",
+        "posted": "2016-05-14",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 29,
+        "title": "Updated: You're really going to like the keyboard",
+        "excerpt": "Updated 5/16/2016 I said I be back. I've had time to experiment with this keyboard and have become more impressed. It still keeps its 4 stars though. The lack of instructions really bothers me. There are so many features on the keyboard but no way to know them because they don't include a manual or they forgot mine. Luckiest I found a Logitech manual at Logitech.com. Believe me that helped a…"
+      },
+      {
+        "product": "B0BBMLD8QT",
+        "posted": "2016-05-20",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 5,
+        "title": "Plug it in and voila you have sound. And with sound you have Netflix or Youtube or whatever.",
+        "excerpt": "When I was shopping for speakers I originally passed by these speakers because they were &#34;ugly&#34; and did not fit the decor of my work area. The other speakers I purchased (here on Amazon) were super attractive and I received a ton of compliments on them. But let me tell you those &#34;cute speakers&#34; were hell to set up and I consider myself very tech savvy. So why am I back purchasing…"
+      },
+      {
+        "product": "B00VM984YC",
+        "posted": "2016-05-18",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 133,
+        "title": "Do not buy from here. This is the old version and was poorly manufactured.",
+        "excerpt": "Do not buy from here. I bought this keyboard from two different sellers on this page and they are an older version of the keyboard that does not work well. Many of the keys do not register any taps. They only seem to register taps if the keyboard is slightly bent into an arch so it seems to be a manufacturing issue. The more recent version of it does work. It comes in a clear plastic box rather…"
+      },
+      {
+        "product": "B0043T7FXE",
+        "posted": "2016-05-15",
+        "stars": 3,
+        "sentiment": -30,
+        "helpful_votes": 39,
+        "title": "Yes, I really submitted this review with my big toe",
+        "excerpt": "Trackballs, far superior to the mouse, but relegated to red-headed stepchild status in the world of human interface devices. For those of you here because the great Cordless Optical Trackman has been discontinued, like all other successful trackballs, you will be disappointed. --This is a light weight, cheap feeling tack ball. It serves its purpose with some level of competence, but is no…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-05-23",
+    "week_end": "2016-05-27",
+    "review_count": 898,
+    "low_data": false,
+    "sentiment": 47.5,
+    "mix_pct": {
+      "positive": 75.4,
+      "neutral": 6.8,
+      "negative": 17.8
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 57,
+        "sentiment": 54.8
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 49.2
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 45.0
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 41.6
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 24,
+        "sentiment": 71.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BBMLD8QT",
+        "posted": "2016-05-21",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 22,
+        "title": "nice little speakers for laptop",
+        "excerpt": "I purchased this for the hubby's computer. He has a computer that doesn't have much volume. So instead of giving him a speaker that I already have I got him this. It seems to be just the right amount of volume, in the middle of the night I can still sleep. He likes to watch videos on youtube and this works good for that. He is able to sit this on his tray table with his computer and all fits…"
+      },
+      {
+        "product": "B01LW71IBJ",
+        "posted": "2016-05-21",
+        "stars": 4,
+        "sentiment": 60,
+        "helpful_votes": 8,
+        "title": "Nice little upgrade, but not an audiophile system",
+        "excerpt": "This was a nice little upgrade from the speakers that came with my 2008 Dell. That addition of a subwoofer makes all the difference. The dongle is handy, too, once you figure it out. Not hard; it has a headphone jack that overrides the speakers, and a volume wheel that does NOT affect the headphone out, only speaker volume. The subwoofer needs a 120 VAC outlet. It was a steal at $38 when I put it…"
+      },
+      {
+        "product": "B01FID7HY0",
+        "posted": "2016-05-24",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 16,
+        "title": "Nothing like commuting 20 miles and wondering more about your phone ...",
+        "excerpt": "Seriously? Are the other two reviews on here Logitech employees? The woman of my dreams wouldn't have elicited such gushing! Scenario: Samsung Galaxy Note 5 with Otterbox Defender case 2011 Subaru Forester XT Mount placed on driver's side center vent right under the stereo. I have been a mechanical engineer for 35 years. With extremely limited insight on how this attached to the mount (I first…"
+      },
+      {
+        "product": "B01C6EY9WW",
+        "posted": "2016-05-23",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 11,
+        "title": "This is the first time Logitech speakers have failed like this on me",
+        "excerpt": "Just got them today, opened the box, connected all the wires and plugs as directed on the box. Turned on the power, ....sound lasted about 60 seconds and then faded out. Turned the system off for a bit and then back on , ....nothing......moved to 3 different outlets and plugged my iphone up to it to listen to music...no sound from the Logitech Surround Sound Z506 speakers. This is the first time…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-05-30",
+    "week_end": "2016-06-03",
+    "review_count": 879,
+    "low_data": false,
+    "sentiment": 47.6,
+    "mix_pct": {
+      "positive": 75.5,
+      "neutral": 6.3,
+      "negative": 18.2
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 46,
+        "sentiment": 55.7
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 57.1
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 52.6
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 27,
+        "sentiment": -22.9
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 58.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00MUTWMGY",
+        "posted": "2016-06-03",
+        "stars": 4,
+        "sentiment": 60,
+        "helpful_votes": 469,
+        "title": "A Love/Hate Relationship (But Mostly Love)",
+        "excerpt": "PROS + Key spacing is comfortable, especially for touch typing + It has a dedicated delete key (although it could be larger); I mention this because I’ve come across one too many keyboards which omit the delete key in lieu of the backspace key to conserve space + Pairing with Android and iOS was quick and easy + It seamlessly switches between three devices without breaking a sweat (I have it set…"
+      },
+      {
+        "product": "B01645FHN4",
+        "posted": "2016-05-29",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 9,
+        "title": "Battery powered portability is a big plus.",
+        "excerpt": "I bought a few of these due to convenience of being able to remove it from the mounting ring and run it on battery for a few hours in any place within my wifi range. This has been really handy for watching my dog. She loves to hang out in our front yard on her chain and watch the world go by -- but I don't feel comfortable leaving her unattended so I set up the camera in the front yard and keep…"
+      },
+      {
+        "product": "B001NEK2GE",
+        "posted": "2016-06-03",
+        "stars": 3,
+        "sentiment": -45,
+        "helpful_votes": 21,
+        "title": "Do NOT buy this is you are running a PC (windows) with 4K display or 1080p at &lt;12\" monitor",
+        "excerpt": "I like everything about the G13 EXCEPT when using it with a 4K monitor or Surface Pro 3 (or SP4). When you connect to a 4K display or a small 12 inch 1080p tablet PC. The software UI became impossible to read, click or change options. Yet, running on 4K is still better than running on a Surface Pro - you simply can't do nothing but open and close the app. Mac users are ok even on a 5K display…"
+      },
+      {
+        "product": "B002HWRJBM",
+        "posted": "2016-06-02",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 13,
+        "title": "LOOK UP THE PHANTOM DOUBLING CLICKING ISSUE BEFORE BUYING",
+        "excerpt": "I've had two of these, and both have suffered from a known issue with the left mouse button doubling clicking unintentionally. Look it up (I put a link below), it's a problem for many people in under a year of use. The first few months were great and I loved how well it paired with the unity receiver (I have a wireless keyboad as well), but after that this mouse totally went to crap and became…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-06-06",
+    "week_end": "2016-06-10",
+    "review_count": 897,
+    "low_data": false,
+    "sentiment": 45.1,
+    "mix_pct": {
+      "positive": 74.0,
+      "neutral": 6.9,
+      "negative": 19.1
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 49,
+        "sentiment": 55.5
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 48.2
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 38,
+        "sentiment": -15.0
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 73.3
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 61.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00WMM48Q6",
+        "posted": "2016-06-09",
+        "stars": 4,
+        "sentiment": 55,
+        "helpful_votes": 207,
+        "title": "Good quality but can't auto focus close objects. Read my tip to resolve.",
+        "excerpt": "Bought this refurbished from Amazon warehouse. Looks good as new and works pretty well. The picture quality is good as well as the microphone. Setup was a breeze and running this is simple, as well. Even my 3 year old knows how to click on the icon to get the camera running. Update: this camera has a macro auto focusing problem when you want to record something up close. For example, if you're…"
+      },
+      {
+        "product": "B01LA5B0W0",
+        "posted": "2016-06-05",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 144,
+        "title": "Comparison vs. Harmony hand-held remote.",
+        "excerpt": "I had an old Harmony hand-held remote that required programming on the website. I replaced it with the Hub, now using my iPhone or iPad as the remote. Here's pros/cons. (For consistency, &#34;components&#34; refer to TV, amp, cable box, and other things you are controlling; &#34;device&#34; refers to the phone, tablet, or whatever you are using to issue those commands.) Both the Hub and the…"
+      },
+      {
+        "product": "B01LA5B0W0",
+        "posted": "2016-06-07",
+        "stars": 1,
+        "sentiment": -65,
+        "helpful_votes": 27,
+        "title": "Consistency issues",
+        "excerpt": "I think the setup must have changed significantly in the past year or so. I was able to get all 5 of my devices entered through my phone and working in less than 15 minutes, which included me having to redo my Wii U because I left the Wii on during that process and the hub paired the Wii twice instead of getting the Wii U. I didn't need to learn any buttons, all the buttons on the physical…"
+      },
+      {
+        "product": "B08SM7QW5K",
+        "posted": "2016-06-09",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 19,
+        "title": "Keys Break!",
+        "excerpt": "Keys snap off easily and customer service does not' respond to emails but every 48 hours and can't seem to look at attachments and miss information provided that they asked for in emails and threaten to close cases due to their inability to use email."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-06-13",
+    "week_end": "2016-06-17",
+    "review_count": 857,
+    "low_data": false,
+    "sentiment": 50.3,
+    "mix_pct": {
+      "positive": 77.9,
+      "neutral": 5.8,
+      "negative": 16.2
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 53,
+        "sentiment": 69.3
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 58.2
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 57.7
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 60.1
+      },
+      {
+        "parent_asin": "B0BS1615YC",
+        "product": "B0BS1615YC",
+        "category": null,
+        "reviews": 21,
+        "sentiment": 35.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01645FHFC",
+        "posted": "2016-06-13",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 57,
+        "title": "Great Camera - Easy and Intuitive!",
+        "excerpt": "[[VIDEOID:231a554a1452cfb8cea2a32f410e60ac]] The camera is amazing. We originally got one for free as a promotion and after one day, realized we need more! The setup is so easy and intuitive, and the push notifications keep you in the loop. At the end of each day, we generate &#34;our day in review&#34; timelapse which essentially just consists of watching our dog run all over the house. Only…"
+      },
+      {
+        "product": "B00YPUQLUY",
+        "posted": "2016-06-13",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 14,
+        "title": "Like this better than our apple mouse",
+        "excerpt": "My husband bought himself an apple mouse for his macbook air but i decided to buy this for myself (i have a macbook air as well). Not only was it SIGNIFICANTLY cheaper, but i think it was easier to use. Dropped it several times as well and it still works wonderfully. Don't know why i didn't purchase this sooner."
+      },
+      {
+        "product": "B01798WTD6",
+        "posted": "2016-06-13",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 255,
+        "title": "WARNING: this case will scratch your screen!",
+        "excerpt": "I received this keyboard case a little over two months ago and loved it. It's very solid, and the backlit and shortcut function keys were a nice feature. However, after two months of use, I noticed a white line appearing on my iPad pro screen where the keyboard palm rest makes contact with the iPad when closed. I thought it could be wiped away, as it was possibly skin cells or dirt. However,…"
+      },
+      {
+        "product": "B01C6EY9WW",
+        "posted": "2016-06-17",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 22,
+        "title": "It's nice having so many individual speakers",
+        "excerpt": "It's nice having so many individual speakers. At first it sounded clear. However, after just a month, I started hearing a crackling and static sound. It wasn't consistent at first but after another month they were consistently static. They became so annoying I didn't use them anymore after that. Waste of money."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-06-20",
+    "week_end": "2016-06-24",
+    "review_count": 785,
+    "low_data": false,
+    "sentiment": 45.4,
+    "mix_pct": {
+      "positive": 74.0,
+      "neutral": 6.4,
+      "negative": 19.6
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 42,
+        "sentiment": 46.3
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 64.7
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 62.1
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 54.9
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 26,
+        "sentiment": -19.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01C6ESQM6",
+        "posted": "2016-06-24",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 848,
+        "title": "Blown Away by Logitech",
+        "excerpt": "To preface, I am an audiophile and have spent countless years at my father’s recording studio hearing some of the best studio monitors out there. I am by no means comparing computer/home theater speakers to the likeness of a pair of $6,000 Genelec studio monitors, but I have high regards for these Logitech speakers. To be honest, I bought these speakers alongside a monitor for my PC not expecting…"
+      },
+      {
+        "product": "B005L38VRU",
+        "posted": "2016-06-22",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 136,
+        "title": "Let's All Have Solar Products!!!",
+        "excerpt": "I've been in the lookout for this keyboard for a long time. I loved the idea of it being solar powered and that I had to do nothing for it to be charged. The first keyboard I received didn't work and I was really mad. I decided to chill and talk to Amazon Support and they sent a new one the same day free of charge and it worked great! After a few weeks I received an email saying that if I didn't…"
+      },
+      {
+        "product": "B006JH8T3S",
+        "posted": "2016-06-23",
+        "stars": 2,
+        "sentiment": -70,
+        "helpful_votes": 37,
+        "title": "Terrible software, Poor quality video at medium distance, but Good as an upclose webcam - buyer beware",
+        "excerpt": "[[VIDEOID:b3687a545448bbab0256bd871e6f13e9]] So I've got VERY mixed feeling about this webcam. My use is for conference room video coverage, and I purchased this webcam based on several good reviews on conference room usage; I am not using it for single-person in front of the cam use, e.g. vlogging. Photos and video sample attached. TLDR; I DO NOT recommend this product for any conference room…"
+      },
+      {
+        "product": "B0BS1615YC",
+        "posted": "2016-06-22",
+        "stars": 2,
+        "sentiment": -80,
+        "helpful_votes": 30,
+        "title": "Painfully tight, returning.",
+        "excerpt": "My trusty old [[ASIN:B002I3OZB2 Logitech G330]] recently died after years of use so I needed a replacement that wasn't going to cost an arm and a leg. I'm an adult woman and ideally I wanted a behind the head headset, but most of them are pricey and I do love my Logitech products so I thought I would give the H390 a try. I get migraines when I wear headsets too long, which can be as little as a…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-06-27",
+    "week_end": "2016-07-01",
+    "review_count": 863,
+    "low_data": false,
+    "sentiment": 44.3,
+    "mix_pct": {
+      "positive": 74.5,
+      "neutral": 5.3,
+      "negative": 20.2
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 42,
+        "sentiment": 72.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 51.0
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 72.5
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 23.0
+      },
+      {
+        "parent_asin": "B08ZFS2NFC",
+        "product": "B08ZFS2NFC",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 53.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "B08SM7QW5K",
+        "posted": "2016-06-25",
+        "stars": 4,
+        "sentiment": 70,
+        "helpful_votes": 77,
+        "title": "Logitech Illuminated Keyboard K740",
+        "excerpt": "A straightforward, elegantly-designed, rectangular and wired keyboard with backlit keys so you can see what the computer buttons are that you want to depress when you're typing in a darkened room. I decided I wanted a wired keyboard -- since wireless keyboards are more fragile in comparison, and, wireless keyboards that have backlit keys will drain their rechargeable or removable batteries much…"
+      },
+      {
+        "product": "B08D8KLVRG",
+        "posted": "2016-06-28",
+        "stars": 5,
+        "sentiment": 75,
+        "helpful_votes": 67,
+        "title": "Great mouse for bigger handed people but note the scroll feature described below",
+        "excerpt": "I have big hands so I wanted a big mouse to attach to my new HDMI KVM and this unit looked like it would be ideal. Size ise it is great and it has the legendary Logitech contoured fit that I love. The mouse performs well and it does what it says, however I almost returned it as the instructions are pretty vague to say the least and whilst packing it up to return it I accidentally found the issue.…"
+      },
+      {
+        "product": "B004OVECU0",
+        "posted": "2016-06-29",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 83,
+        "title": "Hopefully On to something better..",
+        "excerpt": "6 months of sometimes working and most of the time not . . . Hopefully On to something better . . . ."
+      },
+      {
+        "product": "B08ZFS2NFC",
+        "posted": "2016-06-30",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 11,
+        "title": "Snowball mics have no quality control - complete waste of money and time!",
+        "excerpt": "Isn't it funny how all the five star reviews are from 2013 and 2014. These used to be great microphones. Now the quality control is shot and they produce these microphones for next to nothing without any quality control testing. Bought the mic new and got nothing but clicking audio. Tried different software and different computers. No luck. This mic is a dud and a complete waste of money. Hey…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-07-04",
+    "week_end": "2016-07-08",
+    "review_count": 748,
+    "low_data": false,
+    "sentiment": 45.1,
+    "mix_pct": {
+      "positive": 73.8,
+      "neutral": 6.0,
+      "negative": 20.2
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 41,
+        "sentiment": 60.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 70.0
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 55.3
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 61.2
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 34.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B006JH8T3S",
+        "posted": "2016-07-02",
+        "stars": 5,
+        "sentiment": 60,
+        "helpful_votes": 404,
+        "title": "5 Stars, but with an asterisk for us not-very-tech-savvy Mac users",
+        "excerpt": "Okay. First, this webcam does all that they say it does. Buy it! That being said, however, if you're a not-very-techie 70-something like I am, you might discover that it doesn't work when you first plug it into your Mac. And then, when you go to the Logitech website, you find downloads for Windows software to run the thing, but nothing for Mac. And then when you read the product literature, you…"
+      },
+      {
+        "product": "B000UHE8Y2",
+        "posted": "2016-07-04",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 13,
+        "title": "GOAT mouse.",
+        "excerpt": "Writing to pay homage to this mouse. I bought this mouse when it first came out in 2007. I am still currently using it up until today - which I have bought another mouse to replace it. The mouse is still working even after 9 years of ownership. The mouse scroll wheel is a little shotty from built up debris in it, but other than that the mouse still works flawlessly. To describe the wear, there is…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-07-08",
+        "stars": 3,
+        "sentiment": -45,
+        "helpful_votes": 99,
+        "title": "THIS KEYBOARD MAY NOT WORK WITH YOUR SAMSUNG TV!",
+        "excerpt": "I bought 2 of these keyboards and I am not sure how to rate it. I just want to let readers know that THIS ITEM DOES NOT WORK WELL WITH MY SAMSUNG SMART TV! It works on Samsung TV's web browser, but will not work on Samsung TV's Amazon app and Youtube app. I updated all the software and drivers, and that still did not help. Note that only keyboard doesn't work on the apps, but mouse will. Oh...and…"
+      },
+      {
+        "product": "B01645FHN4",
+        "posted": "2016-07-07",
+        "stars": 2,
+        "sentiment": -75,
+        "helpful_votes": 10,
+        "title": "Not reliable.",
+        "excerpt": "Although set-up was very easy and the picture is very clear with only a slight delay, I've got to say this product is not all it's cracked up to be. On the first day using it (after charging it all night until 8:00AM), around 2:30PM that same day, the camera shut off. At first, the app claimed &#34;maintenance&#34; issues, but whatever maintenance was performed surely didn't work as the next…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-07-11",
+    "week_end": "2016-07-15",
+    "review_count": 826,
+    "low_data": false,
+    "sentiment": 45.2,
+    "mix_pct": {
+      "positive": 74.9,
+      "neutral": 5.3,
+      "negative": 19.7
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 73.8
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 72.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 50.0
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 27,
+        "sentiment": -30.4
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 52.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00IQBSW28",
+        "posted": "2016-07-15",
+        "stars": 4,
+        "sentiment": 50,
+        "helpful_votes": 46,
+        "title": "Good product but 3.5 mm mini-plug audio output is lacking",
+        "excerpt": "I've had the Logitech 980-000910 Bluetooth adapter for a couple of months now and it's been working flawlessly. It comes with both the 3.5mm-1/8&#34; female mini-plug connector and traditional two port RCA red and with female ports. I was hoping to use the 3.5mm mini-plug into one of AV ports of my Yamaha RX-A730 receiver however it sounded horrible. &#34;Tinny&#34; as if I was listening to one…"
+      },
+      {
+        "product": "B00BWHIXMM",
+        "posted": "2016-07-14",
+        "stars": 5,
+        "sentiment": 92,
+        "helpful_votes": 18,
+        "title": "Worth the investment, better than anticipated.",
+        "excerpt": "I just received this today, but It has already made my work easier. I inherited an iPad with my job with a frayed old cover. This one looks neat, clean and tidy....and it stands SOLIDLY. It folds nice and flat. Love the keyboard! So much more common sensical than trying to use the screen. And set up was seconds with the Bluetooth setting. Worth the $!"
+      },
+      {
+        "product": "B01CEAYWZW",
+        "posted": "2016-07-13",
+        "stars": 2,
+        "sentiment": -60,
+        "helpful_votes": 65,
+        "title": "Great Device If You Want to Break Your Phone",
+        "excerpt": "I love what this device does. It is everything that is shown in the video. However, the reason for the low review is that as it sits in the sun, the adhesive on the back of the attachment mount on the phone loosens up and the phone suddenly flies off the device. I have spent over a week trying to get Logitech support to either give me a new mount for the back of the phone or a satisfactory…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-07-10",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 6,
+        "title": "Not as advertised",
+        "excerpt": "This keyboard was advertised for use with Smart TV's. Not so. You have to connect a computer to the TV first and then use the keyboard through the computer. If I wanted to do that, I could just use my computer keyboard!!"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-07-18",
+    "week_end": "2016-07-22",
+    "review_count": 963,
+    "low_data": false,
+    "sentiment": 53.2,
+    "mix_pct": {
+      "positive": 78.9,
+      "neutral": 6.4,
+      "negative": 14.6
+    },
+    "top_products": [
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 76.1
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 42,
+        "sentiment": 62.0
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 67.4
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 36,
+        "sentiment": -5.9
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 70.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B004OVECU0",
+        "posted": "2016-07-19",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 59,
+        "title": "Good product. A+ prompted service.",
+        "excerpt": "Product received as described, easy to function and works well with all our electronic gears. Tried on our Pug, but it didn't work on her. :-)"
+      },
+      {
+        "product": "B00VM984YC",
+        "posted": "2016-07-17",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 41,
+        "title": "Fantastic slim lightweight keyboard for travel",
+        "excerpt": "I've owned four of these awesome keyboards, pairing them with mostly Apple products, iPads Macs and iphones. I travel for business and vacation a lot, and these little guys can definitely take a beating. If you're wondering why I bought four. I lost one (left it on an airplane and just had to buy a replacement). I keep one in the car (just in case), one in my iPad case and another in the office.…"
+      },
+      {
+        "product": "B00NAOZNR8",
+        "posted": "2016-07-18",
+        "stars": 2,
+        "sentiment": -60,
+        "helpful_votes": 13,
+        "title": "I LOVE THIS HEADSET so far..",
+        "excerpt": "I would give this a 4.5 if I could. So I've spent MANY days searching headsets, trying to figure out which one would be best and the best price. There are lots of applications I use headsets for (which I will list) and had questions about which ones it would and would not work with, but no one really had them listed. First- the sound quality is GREAT. I am very pleased with the sound. Sometimes…"
+      },
+      {
+        "product": "B0148NPJ78",
+        "posted": "2016-07-21",
+        "stars": 2,
+        "sentiment": -70,
+        "helpful_votes": 11,
+        "title": "Good initial impression, died after several days",
+        "excerpt": "I was initially pleasantly surprised by the headset. I got it as a replacement for a pair of Gamecom 780s that had the headband snap of death several months ago. As a previous 7.1 surround sound junkie I can confirm that this headset has excellent 7.1, and the bass is surprisingly deep for a pair of headphones. My first disappointment came with the included micro-usb cable, whose &#34;ears&#34;…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-07-25",
+    "week_end": "2016-07-29",
+    "review_count": 955,
+    "low_data": false,
+    "sentiment": 48.9,
+    "mix_pct": {
+      "positive": 76.8,
+      "neutral": 5.2,
+      "negative": 18.0
+    },
+    "top_products": [
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 69.5
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 39,
+        "sentiment": 54.2
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 71.5
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 56.2
+      },
+      {
+        "parent_asin": "B095JX15XF",
+        "product": "B095JX15XF",
+        "category": null,
+        "reviews": 24,
+        "sentiment": 75.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BK6SGHHB",
+        "posted": "2016-07-28",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 14,
+        "title": "Perfect webcam for many uses!",
+        "excerpt": "I'm a video snob so I had to have a good webcam. It's great for skype calls and any webcamming you have to do. As a video rpo, I will tell you that this unit has to have light. Otherwise you will get noise. That's just the name of the game. Make sure you are near a light source. Whether that is a window or a lamp or overhead light, the way to get the best performance out of this guy is with good…"
+      },
+      {
+        "product": "B01LVVG5XS",
+        "posted": "2016-07-24",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 11,
+        "title": "Wow. These speakers are insane for their price",
+        "excerpt": "[[VIDEOID:5c3c1e687e3fa007c886268019a1a1d8]] I went to best buy, looking for some new computer speakers that I could add to this budget monitor setup. I found these Logitech Speakers, and was quickly surprised to see how much power these speakers can give. For $20, these speakers are a great option. Details - Headphone Jack is built into one of the speakers - There is a volume rocker on one of…"
+      },
+      {
+        "product": "B08YMVB98D",
+        "posted": "2016-07-23",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 8,
+        "title": "Nice mouse to look up but is lacking in function.",
+        "excerpt": "I bought this mouse to go over the new laptop that I had just received. It is very appealing to the eye but the mouse does not track well I wanted it Bluetooth to my computer so I did not have to use USB port, and I do. And the rolling Circle for scrolling goes too fast and is very flimsy over all in its manufacturing. I do not like this mouse and I do not use it"
+      },
+      {
+        "product": "B00IAKLM54",
+        "posted": "2016-07-25",
+        "stars": 2,
+        "sentiment": -85,
+        "helpful_votes": 7,
+        "title": "I really hate this remote.",
+        "excerpt": "I upgraded to this from a Harmony One, which I loved but was just starting to feel kind of old. I read a lot of reviews and complaints about this model's button layout. I figured people were just exagerating, how hard can it be to learn a new layout and get used to the play-pause controls being at the top of the remote instead of the middle. You have to hold the remote by the top to use the…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-08-01",
+    "week_end": "2016-08-05",
+    "review_count": 872,
+    "low_data": false,
+    "sentiment": 51.4,
+    "mix_pct": {
+      "positive": 78.0,
+      "neutral": 5.7,
+      "negative": 16.3
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 69.0
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 59.2
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 65.4
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 63.2
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 35.0
+      }
+    ],
+    "examples": [
+      {
+        "product": "B08V9VN5Q6",
+        "posted": "2016-08-03",
+        "stars": 4,
+        "sentiment": 45,
+        "helpful_votes": 22,
+        "title": "Good mouse overall, just some minor issues I ran into",
+        "excerpt": "Overall good mouse, as I am a Logitech fan. However there are a couple issues I ran into (see below). Review: Small mouse convenient for carrying around. The small USB that you plug into the computer is docked nicely on the bottom of the mouse (have to remove cover where battery is to access it). The cosmetic condition of the mouse is actually not &#34;new&#34; as I saw scuff marks around the…"
+      },
+      {
+        "product": "B0036E8V08",
+        "posted": "2016-07-30",
+        "stars": 4,
+        "sentiment": 70,
+        "helpful_votes": 11,
+        "title": "Allows me to type lots of stuff and move this little arrow thingy around my computer screen.",
+        "excerpt": "I got this Keyboard/Mouse combo to replace a heavily outdated (but still quite functional - keyboard anyway) Microsoft bluetooth combo. This thing gets relatively heavy use on my desk at work. The mouse has seen more use than the keyboard though as I will bring that with me when I travel, while the keyboard gets shut off and left behind to keep the other desk decorations company. I'm extremely…"
+      },
+      {
+        "product": "B00O4RRHP6",
+        "posted": "2016-08-03",
+        "stars": 2,
+        "sentiment": -50,
+        "helpful_votes": 31,
+        "title": "Great for entertainment devices, terrible for 'smart' homes.",
+        "excerpt": "I'd give it a 2.5 if I could. Its the best smart remote for IR devices. I have my equipment in a separate closet from my theater room so the hub and IR blasters are a must. The 'smart home' features are really half baked. So much potential with arbitrary limitations. I had the prior non-smarthome version and moved that to another room and bought this for my dedicated theater room. I envisioned…"
+      },
+      {
+        "product": "B003VAHYQY",
+        "posted": "2016-08-05",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 5,
+        "title": "\"I make the same amount of money whether I issue the warranty or not\" - Logitech Supervisor",
+        "excerpt": "Did not honor the warranty. The product failed while still under warranty and they refused to issue a replacement, or repair the product. After speaking to a representative, her supervisor told me: &#34;I make the same amount of money whether I issue the warranty or not.&#34; Will not recommend or purchase from Logitech again."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-08-08",
+    "week_end": "2016-08-12",
+    "review_count": 947,
+    "low_data": false,
+    "sentiment": 46.8,
+    "mix_pct": {
+      "positive": 74.7,
+      "neutral": 6.7,
+      "negative": 18.7
+    },
+    "top_products": [
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 42,
+        "sentiment": 54.0
+      },
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 41,
+        "sentiment": 37.8
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 37,
+        "sentiment": 63.7
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 45.9
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 65.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0148NPJ78",
+        "posted": "2016-08-10",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 152,
+        "title": "A new standard for headsets. (Plus sidetone on PS4!)",
+        "excerpt": "Ok, so before I jump into my review here, just know that I am not an &#34;audiophile&#34; (and most that claim they are don't know what that word means), and I am unbiased towards any brands or styles of headsets/headphones. That being said however, I have a passion for collecting and experiencing audio products such as headphones, theatre systems, car audio etc. I know good sound when I hear it,…"
+      },
+      {
+        "product": "B0BMTWS2P3",
+        "posted": "2016-08-12",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 19,
+        "title": "Using it for the kids - great size!",
+        "excerpt": "We were looking for a mouse for our kids to use with an old laptop/tablet. My daughter is entering kindergarten, and one of the pre-requirements is that they're able to use a mouse for standardized testing (crazy, I know!). Since our kids really haven't used computers or tablets too much, we wanted to get something that would be comfortable for her to learn on. We figured this mini portable mouse…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-08-06",
+        "stars": 3,
+        "sentiment": -35,
+        "helpful_votes": 12,
+        "title": "Buy this one only if you can't find a K-400r to buy.",
+        "excerpt": "It works better than most touchpad wireless keyboards but the plus isn't a plus. The K400r is actually a better model. This one doesn't have a single key system lock and shrinks the up/down keys into two half sized keys. The F-keys are smaller too even though they are all dual function. There is no color anywhere to indicate alternate functions on keys so it's nearly impossible to see what they…"
+      },
+      {
+        "product": "B0148NPAT0",
+        "posted": "2016-08-06",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 9,
+        "title": "Come on...",
+        "excerpt": "Logitech knows that people aren't taught to press and release the shift key to use capital letters; you hold it down. I do not care to re-learn to type just because they couldn't figure out how to wire their keyboard correctly."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-08-15",
+    "week_end": "2016-08-19",
+    "review_count": 829,
+    "low_data": false,
+    "sentiment": 50.0,
+    "mix_pct": {
+      "positive": 77.7,
+      "neutral": 5.2,
+      "negative": 17.1
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 51,
+        "sentiment": 74.2
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 64.1
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 41.0
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 50.6
+      },
+      {
+        "parent_asin": "B019OB663A",
+        "product": "B019OB663A",
+        "category": null,
+        "reviews": 24,
+        "sentiment": 59.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00WMLUZJ6",
+        "posted": "2016-08-17",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 187,
+        "title": "Nice and smooth mouse, good job logitecn",
+        "excerpt": "This mouse is great. I have a Windows 10 tablet that I like to use a mouse with when I'm working on it. I was using a mouse with a USB plug before this, but the tablet requires and adapter to use a regular size usb and I could not charge the tablet at the same time I was using the USB mouse. This bluetooth mouse was super easy to pair to the windows tablet (Bluetooth settings, click connect on…"
+      },
+      {
+        "product": "B01G6BIN8C",
+        "posted": "2016-08-15",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 65,
+        "title": "Making videos can be so much fun and so can doing live streaming",
+        "excerpt": "[[VIDEOID:aae249ca5cb4c5661454106a197bf49b]] Making videos can be so much fun and so can doing live streaming, but sometimes it can be a bit frustrating. Having to change your camera location can be tough, or maybe you are lucky enough to have a friend or some one help switch your shots. Either way, it's not ideal. This can make videos so much better with the ability to change camera angles or…"
+      },
+      {
+        "product": "B08SM7QW5K",
+        "posted": "2016-08-17",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 17,
+        "title": "I normally LOVE Logitech's hardware",
+        "excerpt": "I normally LOVE Logitech's hardware. I have a logitech keyboard and mouse at home that I love. However, I bought the K740 a few months back for my office and i've had nothing but problems with the keys. As you type, the plastic keys keep popping up off of the keyboard. Finally, one of the keys have broken off and it won't go back on. I wish I could return it and get another one but I do NOT want…"
+      },
+      {
+        "product": "B01HIS30OY",
+        "posted": "2016-08-13",
+        "stars": 1,
+        "sentiment": -30,
+        "helpful_votes": 14,
+        "title": "Logitech Create Backlit Keyboard Case with Smart Connector for iPad Pro 9",
+        "excerpt": "BEWARE! These two hundred plus reviews are NOT for: Logitech Create Backlit Keyboard Case with Smart Connector for iPad Pro 9.7-Inch - Black (920-008131) THE REVIEWS ARE FOR: Logitech Create Backlit Keyboard Case with Smart Connector for iPad Pro(12.9-Inch) - Black Amazon transferred these reviews from the 12.9 Logitech Create Keyboard to the newer 9.7 Logitech Create Keyboard."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-08-22",
+    "week_end": "2016-08-26",
+    "review_count": 937,
+    "low_data": false,
+    "sentiment": 44.6,
+    "mix_pct": {
+      "positive": 74.0,
+      "neutral": 6.2,
+      "negative": 19.9
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 49,
+        "sentiment": 54.1
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 63.3
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 64.3
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 25,
+        "sentiment": -13.6
+      },
+      {
+        "parent_asin": "B003VANO7C",
+        "product": "B003VANO7C",
+        "category": null,
+        "reviews": 23,
+        "sentiment": 34.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BK6SGHHB",
+        "posted": "2016-08-25",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 536,
+        "title": "Great camera for Skype, crisp picture quality and sound is perfect, with lots of features!",
+        "excerpt": "I did a lot of research on this thing before purchasing. Basically I am having to work from home for a while and my office wanted me still &#34;in the office&#34; if you will. My boss bought another webcam that was supposedly plug and play and compatible with Windows 10, but it wasn't and ended up being a nightmare. I did some research and saw that Skype rated this in the top 5 webcams that work…"
+      },
+      {
+        "product": "B01G6BIN8C",
+        "posted": "2016-08-21",
+        "stars": 4,
+        "sentiment": 55,
+        "helpful_votes": 136,
+        "title": "Know what you're getting. Manage your expectations",
+        "excerpt": "I ordered mine at the prerelease price. I have live streamed four contemporary church services on Facebook using public wifi and my iPhone 5s. I have it 5ft from the (elevated) stage on a mic stand. I use an external battery designed for a GoPro since I record 2-2 1/2 hrs continuously. I use the built in mic with fairly good results. Auto color balance and exposure are good inspite of frequent…"
+      },
+      {
+        "product": "B00WMLUZJ6",
+        "posted": "2016-08-25",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 19,
+        "title": "Too Small- My Hand Hurts a Lot.",
+        "excerpt": "I wish this had been clearly labelled as a mini mouse. This is not a full size mouse, and I found the title and description extremely misleading. I love Logitech products, and I've been using their mice for years. I was looking for a mouse with bluetooth capabilities so I could use it with my macbook. This mouse hurts my hand after a few minutes of use because it's too small. And I have small…"
+      },
+      {
+        "product": "B01645FHN4",
+        "posted": "2016-08-23",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 10,
+        "title": "Useless Piece of Junk Technology",
+        "excerpt": "The product stopped functioning and 'died' after little more than 2 months. Logitech's website for warranty info is a joke - completely User-Unfriendly and emails thereto unanswered after more than 5 days. Attempts to reach Product Support by telephone were equally fruitless - gave up after being put on hold twice for almost an hour each time. By the way when it worked the video quality and…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-08-29",
+    "week_end": "2016-09-02",
+    "review_count": 918,
+    "low_data": false,
+    "sentiment": 44.2,
+    "mix_pct": {
+      "positive": 74.0,
+      "neutral": 5.2,
+      "negative": 20.8
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 58,
+        "sentiment": 61.1
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 37,
+        "sentiment": 65.5
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 70.0
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 27,
+        "sentiment": -13.0
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 22,
+        "sentiment": -3.0
+      }
+    ],
+    "examples": [
+      {
+        "product": "B08ZFS2NFC",
+        "posted": "2016-08-29",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 229,
+        "title": "Looks Great In Some Places, Bad in Others. Sounds Wonderful",
+        "excerpt": "This is without a doubt the best and most fun to use microphone I have ever used. When I received this, I tested it on the Skype thing that lets you hear your own mic, and for some reason it sounded much better than reviews on here and YouTube lead me to believe. I do very much like this mic, but it does have a couple design flaws that are just really annoying. Pros: The stand is very nice. I've…"
+      },
+      {
+        "product": "B0170NWLWY",
+        "posted": "2016-09-01",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 227,
+        "title": "Here's the thing - this is a great microphone for what it is and how much it ...",
+        "excerpt": "Here's the thing - this is a great microphone for what it is and how much it costs. I was able to pick one up on a lightning deal for $89 and it's well worth that price, however, I've had a few problems with it from day one that have since been rectified. Let's start with the bad. Number one, I had to ship the first one back because one of the screws that holds the microphone into place was…"
+      },
+      {
+        "product": "B07FP8Q6ZH",
+        "posted": "2016-09-02",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 13,
+        "title": "Worked good the first time...",
+        "excerpt": "This camera worked great for the first 3 meetings we had used it for. It stopped working for the 4th meeting. I am working with Logitech warranty dept. and it is a painfully slow process. Considering the price of this camera it should be able to handle being used more than 3 times. The warranty process moves at a snails pace and am not able to use this high dollar camera for my meetings while I…"
+      },
+      {
+        "product": "B0148NPJ78",
+        "posted": "2016-09-01",
+        "stars": 2,
+        "sentiment": -60,
+        "helpful_votes": 12,
+        "title": "I do not like to write bad reviews out of the 100 or ...",
+        "excerpt": "I do not like to write bad reviews out of the 100 or so that I have done only a couple have been negative and I really like Logitech as a company so this hurts equally bad. I bought the Logitech G933 wireless headset to replace my G930 wireless headset which after nearly 5 years were beginning to show a lot of wear and tear. I thought about buying a refurbished pair of G930's but I figured its…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-09-05",
+    "week_end": "2016-09-09",
+    "review_count": 886,
+    "low_data": false,
+    "sentiment": 50.3,
+    "mix_pct": {
+      "positive": 77.7,
+      "neutral": 5.8,
+      "negative": 16.6
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 44,
+        "sentiment": 62.3
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 37,
+        "sentiment": 67.7
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 76.3
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 66.2
+      },
+      {
+        "parent_asin": "B0BS1615YC",
+        "product": "B0BS1615YC",
+        "category": null,
+        "reviews": 24,
+        "sentiment": 38.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01K48R5V4",
+        "posted": "2016-09-09",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 489,
+        "title": "Features for non-gamers, too.",
+        "excerpt": "I am totally not a gamer, so this is from the viewpoint of an old woman with vision problems who types too fast for a lot of software. The first thing I love about this keyboard, however trivial it might seem, is that the keys light up, and the characters are large. I can see the keys I'm looking for! Yes, I touch-type my alphabet, but sometimes not so much the numbers and symbols, and now I can…"
+      },
+      {
+        "product": "B001F42MKG",
+        "posted": "2016-09-08",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 18,
+        "title": "Best mouse for precision photo work",
+        "excerpt": "I hate trackpads and since I do a lot of editing in photoshop, I've found that this type of trackball mouse is the absolute best for precision and ease. The best thing about the ball style mice is that you never run out of room on your desk and never have to pick up the mouse to reposition it lower on the mouse pad. It also feels more comfortable than thumb-controlled trackball mice. If I'm doing…"
+      },
+      {
+        "product": "B0BS1615YC",
+        "posted": "2016-09-08",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 27,
+        "title": "Cushioning on ears and headpiece peeling, dissolving off :-(",
+        "excerpt": "I'm very disappointed with this Logitech headset because the cushioning is literally peeling off dissolving into a mess on my desk I have to clean up every time I use the headset. Very light use, bought about 5 years ago. Look at the photo I included with this review to see what I mean. Needless to say won't by these again, try some other brand."
+      },
+      {
+        "product": "B0148NPJ78",
+        "posted": "2016-09-05",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 10,
+        "title": "That was unexpected...",
+        "excerpt": "after 2 1/2 months of use the headphones stopped working and now I'm stuck with a bust 200$(inc shipping) headphones... tried with other PCs with no luck... this was my second purchase(the first I gave to a friend) and I am super unhappy"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-09-12",
+    "week_end": "2016-09-16",
+    "review_count": 866,
+    "low_data": false,
+    "sentiment": 46.5,
+    "mix_pct": {
+      "positive": 74.9,
+      "neutral": 6.0,
+      "negative": 19.1
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 51,
+        "sentiment": 55.5
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 45.8
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 26.3
+      },
+      {
+        "parent_asin": "B0BS1615YC",
+        "product": "B0BS1615YC",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 36.4
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 24,
+        "sentiment": 45.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "B003VAGXZC",
+        "posted": "2016-09-11",
+        "stars": 4,
+        "sentiment": 75,
+        "helpful_votes": 101,
+        "title": "does the job",
+        "excerpt": "So I have waited to do a review on this product for almost a year to see how it holds up. I work from home and that means I spend a lot of time on the computer..anywhere from 8-10 hours a day, five days a week. The keyboard works great and I have not had to replace the batteries yet. Mouse is the same. I like that the keyboard does have a separate number pad. Price cannot be beat. I have always…"
+      },
+      {
+        "product": "B08YMVB98D",
+        "posted": "2016-09-15",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 17,
+        "title": "I love this mouse!",
+        "excerpt": "Perfect mouse for my HP Red Flyer Laptop! I was looking for a cute red mouse to go with my new red laptop and this one fit the bill nicely. It has multiple colors of red in it and has rubber sides so that the mouse is easy to grip. The scroll wheel on top is also rubber. This mouse is perfect for women with small hands or a teenager or even a kid because it is made on a small scale. I'm very…"
+      },
+      {
+        "product": "B004MF11MU",
+        "posted": "2016-09-12",
+        "stars": 1,
+        "sentiment": -75,
+        "helpful_votes": 491,
+        "title": "Awesome until it's a complete disaster",
+        "excerpt": "First off, I really like the way this keyboard feels, and when it works, it's awesome. Unlike others, I have had no issues with battery life; it's at 98% right now after using it all day today. However, I currently have a K750 which is a replacement for a previous K750 I had, which also eventually had the problem that caused me to replace it with this current one. The problem is that sometimes,…"
+      },
+      {
+        "product": "B01C6EN23O",
+        "posted": "2016-09-12",
+        "stars": 2,
+        "sentiment": -45,
+        "helpful_votes": 19,
+        "title": "Outdated, but can work if you tinker with it.",
+        "excerpt": "This is an unit that has been around since 2011, so let me tell what you need to know. 1- No HDMI 2- The sub woofer gets insanely hot in just a few minutes since it has no fan. (you gotta fix that yourself) 3- i had to open it to fix #2. 4- unless whatever you are using is pushing 5.1 then you are not going to get true 5.1 , only a simulated 3D surround, but it's not bad, and it's loud. 5- If you…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-09-19",
+    "week_end": "2016-09-23",
+    "review_count": 911,
+    "low_data": false,
+    "sentiment": 46.4,
+    "mix_pct": {
+      "positive": 73.9,
+      "neutral": 6.3,
+      "negative": 19.9
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 54,
+        "sentiment": 55.0
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 41,
+        "sentiment": 50.9
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 51.0
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 30,
+        "sentiment": -0.3
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 72.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00MUTWLW4",
+        "posted": "2016-09-22",
+        "stars": 4,
+        "sentiment": 70,
+        "helpful_votes": 25,
+        "title": "Makes life easier",
+        "excerpt": "I love this logitech keyboard. I gave it 4 stars for a couple of reasons, but in general, it has made my life easier, which was what I had hoped for. We have a tablet, but no laptop, so I ordered this to make typing easier in conjunction with my tablet. It is extremely simple to set up. I use a Samsung tablet and the only things I had to do to connect the keyboard to my tablet is search for the…"
+      },
+      {
+        "product": "B01HIS30OY",
+        "posted": "2016-09-23",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 22,
+        "title": "Worth Every Cent and BETTER than Apple's own \"Smart Keyboard\"",
+        "excerpt": "***Preface--Skip to next paragraph for full review*** I don't review stuff here very often, but I've had this keyboard case for 2 days and I am so impressed that I felt compelled to share. I originally purchased a faux leather case that came with a bluetooth keyboard. It was ok, the first one fit, but the keyboard was always losing it's bluetooth sync with my ipad or not holding a charge. It's…"
+      },
+      {
+        "product": "B08ZFS2NFC",
+        "posted": "2016-09-18",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 33,
+        "title": "... the very beginning and the quality was always a disappointment to me considering the price",
+        "excerpt": "Honestly it was a pain in the ass from the very beginning and the quality was always a disappointment to me considering the price. The mic would always cut out randomly and recently started recording at really low volumes (despite all volume slider bars being at their highest level). Today in frustration I decided to smash the thing in half like a coconut. I discovered that the device is nothing…"
+      },
+      {
+        "product": "B01G6BIN8C",
+        "posted": "2016-09-22",
+        "stars": 2,
+        "sentiment": -65,
+        "helpful_votes": 18,
+        "title": "Not Ready for Primetime",
+        "excerpt": "As someone already posted in their review, manage your expectations and then lower them. The hardware is good, battery life without the boost is decent, not great, and the video quality could be better based on the &#34;screenshots&#34; at Mevo's website (you really need great light outside or production lighting inside to avoid a lot of noise). However, the biggest problem is that the software…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-09-26",
+    "week_end": "2016-09-30",
+    "review_count": 901,
+    "low_data": false,
+    "sentiment": 47.9,
+    "mix_pct": {
+      "positive": 76.2,
+      "neutral": 5.9,
+      "negative": 17.9
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 63.1
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 65.7
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 58.3
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 42.0
+      },
+      {
+        "parent_asin": "B08ZFS2NFC",
+        "product": "B08ZFS2NFC",
+        "category": null,
+        "reviews": 23,
+        "sentiment": 63.0
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01LF37K80",
+        "posted": "2016-09-28",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 56,
+        "title": "Best mouse I've yet used",
+        "excerpt": "Best mouse I've yet used. This one feels the best in my hand – admittedly a very subjective judgment. (I've used multiple Logitech mice: M705; Anywhere MX; Touch Mouse T630. Multiple Microsoft Mice: Sculpt Comfort Mouse; Wireless Mobile 4000; Sculpt Touch Bluetooth Mouse. And more.) It is very similar in size and shape, to the M705; but the M720 feels better, to me. The mechanism for switching…"
+      },
+      {
+        "product": "B01LW71IBJ",
+        "posted": "2016-09-24",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 27,
+        "title": "Powerful, smooth, clear sounding little computer speakers for a bargain price, my kitties love the subwoofer :)",
+        "excerpt": "This speaker set was a really good deal and has been a huge upgrade to my home desktop/gaming station. The sound is clear and crisp, it can get very loud before sounding distorted, and the subwoofer is smooth and not too big physically. My cats love to sit on top of the sub under my desk while its on, its cute but a little weird lol. But its the perfect size for one cat butt, if that was ever a…"
+      },
+      {
+        "product": "B091JB6HQ7",
+        "posted": "2016-09-26",
+        "stars": 2,
+        "sentiment": -50,
+        "helpful_votes": 160,
+        "title": "Work fine. Lots of wires. Awful orange LED.",
+        "excerpt": "These are obviously not &#34;audiophile&#34; caliber speakers. Good enough for the price? Sure. The LED is unnecessarily bright (my photo does not do it justice). The wires are also unnecessary. Most speakers of this kind will have one &#34;hub&#34; speaker with the switch, the power source and connection to audio source. The other speaker has only one wire to connect to the hub speaker. Here, we…"
+      },
+      {
+        "product": "B003VAHYNC",
+        "posted": "2016-09-25",
+        "stars": 1,
+        "sentiment": -55,
+        "helpful_votes": 95,
+        "title": "Great while they last but life expectancy 1 year on replacement for this original one which last 2 years.",
+        "excerpt": "Great UNTIL they start having poor contact, hesitation and finally after reading other posts see similiar pattern. Great and love the wave and all but the contacts wear quickly (I really expect more than a year from a Logitech (or any keyboard) . I have other different Logitech keyboards and love them and they are 5 years old (wired) and not the wave. Wish they could put the same quality into…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-10-03",
+    "week_end": "2016-10-07",
+    "review_count": 868,
+    "low_data": false,
+    "sentiment": 45.3,
+    "mix_pct": {
+      "positive": 74.8,
+      "neutral": 6.0,
+      "negative": 19.2
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 46,
+        "sentiment": 55.5
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 52.2
+      },
+      {
+        "parent_asin": "B095JX15XF",
+        "product": "B095JX15XF",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 68.0
+      },
+      {
+        "parent_asin": "B0148NPJ78",
+        "product": "B0148NPJ78",
+        "category": null,
+        "reviews": 26,
+        "sentiment": -9.4
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 56.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B003NR57BY",
+        "posted": "2016-10-04",
+        "stars": 5,
+        "sentiment": 75,
+        "helpful_votes": 720,
+        "title": "The updated M510 mouse",
+        "excerpt": "This review is for the returning M510 users out there. If you've owned this mouse, you should know that that Logitech has changed the design a little bit. Along with their new logo, the new &#34;2nd Edition&#34; M510 (missed opportunity by not calling it M510S or something) now also sports a &#34;laser-grade&#34; optical sensor, as opposed to the old &#34;actual laser&#34; sensor. After doing a…"
+      },
+      {
+        "product": "B01LZTBKBG",
+        "posted": "2016-10-06",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 168,
+        "title": "Exactly What I've Been Looking For",
+        "excerpt": "I've spent more money on keyboards that I'd like to admit. One thing that the new Logitech K780 and MX Master mouse do very uniquely is replace simple KVM switches. It also has a very good light key action. The keys have very little play in them and are soft yet firm in their action. Actuation pressure is fairly light but doesn't feel cheap at all. I like the key layout. I actually do use insert,…"
+      },
+      {
+        "product": "B01798WTD6",
+        "posted": "2016-10-05",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 18,
+        "title": "Too Heavy, Bulky, and Difficult to Remove iPad from Case, Fast Backlighting Timeout",
+        "excerpt": "I used the Apple keyboard for about a year before buying Logitech's Create keyboard. The Apple keyboard was excellent and its only weakness was the lack of backlighting. When used on flights, especially late at night when it's rude to turn on overhead lights, Apple's lack of backlighting made typing difficult. Unfortunately Logitech's keyboard, while very good at typing, makes the iPad more bulky…"
+      },
+      {
+        "product": "B00BQ5RYI4",
+        "posted": "2016-10-02",
+        "stars": 2,
+        "sentiment": -35,
+        "helpful_votes": 10,
+        "title": "Good home entertainment control system, but not for Chromecasts and Fire Sticks",
+        "excerpt": "The Logitech harmony remote and hub is a good system. I wish the Amazon rating system can do 1/2 stars, so I could give it 3 1/2 stars, but I'm going to give it the benefit of the doubt and give it 4 stars because it truly does work better than most other systems I've tried. Although there is not much documentation, I did find the system relatively easy to set up. For reference, I will say that I…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-10-10",
+    "week_end": "2016-10-14",
+    "review_count": 822,
+    "low_data": false,
+    "sentiment": 47.0,
+    "mix_pct": {
+      "positive": 76.3,
+      "neutral": 4.6,
+      "negative": 19.1
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 46,
+        "sentiment": 74.2
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 70.4
+      },
+      {
+        "parent_asin": "B0BS1615YC",
+        "product": "B0BS1615YC",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 44.5
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 37.8
+      },
+      {
+        "parent_asin": "B01LW71IBJ",
+        "product": "B01LW71IBJ",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 49.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00ISIFX0S",
+        "posted": "2016-10-08",
+        "stars": 4,
+        "sentiment": 65,
+        "helpful_votes": 31,
+        "title": "Great for music but not ideal for talk radio, podcasts or books on tape.",
+        "excerpt": "I have a ton of Bluetooth speakers (HOES to Bose) and headphones (Bose to Beats) and I use them a lot. When my master bathroom speaker died, the one I use to listen to Mike and Mike or NPR while getting ready in the morning, I started doing research on replacing it. I read and watched so many positive reviews on this hockey puck-sized speaker that I had to get it. Man! For $20, this is hands…"
+      },
+      {
+        "product": "B08ZFS2NFC",
+        "posted": "2016-10-09",
+        "stars": 5,
+        "sentiment": 80,
+        "helpful_votes": 10,
+        "title": "Amazing microphone. Build quality is weird, but still good",
+        "excerpt": "I thought my camera microphone was pretty good, but then I realized it was horrible. I took a risk with the Blue Snowball because of the price point, but it was so worth it.... Shipping/Packaging: Took two days with prime. Packaging was really nice, especially since I bought it with a scissor arm and a pop filter. Items in the box: 1 Blue Snowball ICE Microphone 1 Mini Tripod 1 USB 2.0 Cable The…"
+      },
+      {
+        "product": "B00TZR3WRM",
+        "posted": "2016-10-13",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 25,
+        "title": "Constant Fustration + Defective Software = Buyer's remorse",
+        "excerpt": "I deeply regret my purchase. This mouse cost so much money, but it is extremely defective. The wheel no longer locks and free spins. The thumb buttons are difficult to press. The wheel is so sensitive (even after adjusting the software) that my documents and webpages often jump or shake if my finger is not holding it down. The one good quality is that it feels very comfortable in your hand. This…"
+      },
+      {
+        "product": "B01798WTD6",
+        "posted": "2016-10-13",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 15,
+        "title": "... usually don't write reviews because under normal circumstances I'm satisfied with my purchases",
+        "excerpt": "Normally I'm a big fan of logitech products and I usually don't write reviews because under normal circumstances I'm satisfied with my purchases. However, this case is probably the worst thing I've purchased in recent memory. I have a cellular model version of the iPad Pro, and I'm unsure if the issue is because the housing is different at the top of the iPad, but the case has never fit well.…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-10-17",
+    "week_end": "2016-10-21",
+    "review_count": 854,
+    "low_data": false,
+    "sentiment": 49.2,
+    "mix_pct": {
+      "positive": 77.8,
+      "neutral": 5.3,
+      "negative": 17.0
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 37,
+        "sentiment": 64.5
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 49.8
+      },
+      {
+        "parent_asin": "B01LW71IBJ",
+        "product": "B01LW71IBJ",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 76.0
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 50.2
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 22,
+        "sentiment": -10.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "B00IQBSW28",
+        "posted": "2016-10-21",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 245,
+        "title": "You cant go wrong with Logitech",
+        "excerpt": "I love this little gadget. I connected it to my whole house audio system input source and now I can play Pandora throughout my house from my smart phone. Note: It is recommended that you also purchase a smart power switcher with this product. Because, your phone will still pair with this device even when your sound system is turned off. So, if your phone rings and it is still paired to this…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-10-18",
+        "stars": 5,
+        "sentiment": 80,
+        "helpful_votes": 147,
+        "title": "I use it to control my Raspberry Pi 3 (Model B) and it works perfectly",
+        "excerpt": "It is very comfortable to use on the bed, It works on two AA batteries that are already included. It is smaller than your ordinary keyboard, but large enough not to press two keys at a time. The trackpad (or &#34;mouse&#34;) is as good as any PC laptop on the market. I use it to control my Raspberry Pi 3 (Model B) and it works perfectly by just pluggin in the USB receiver, no need to download…"
+      },
+      {
+        "product": "B01FID7HY0",
+        "posted": "2016-10-21",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 8,
+        "title": "The magnet is not strong enough to hold the phone ...",
+        "excerpt": "The magnet is not strong enough to hold the phone securely. My Nexus 6 phone keeps sliding off the mount when the car hits even a moderate road bump."
+      },
+      {
+        "product": "B0BS1615YC",
+        "posted": "2016-10-17",
+        "stars": 1,
+        "sentiment": -85,
+        "helpful_votes": 7,
+        "title": "Great for as long as it lasted.",
+        "excerpt": "This is the second Logitech ClearChat Comfort/USB Headset H390, Noise Cancelling Microphone I purchased on 10/26/2016. I am a big fan of Logitech products and have spent lot$ of money on them in the last 20 years. BUT! I'm watching a movie on my computer when the action starts and the movie volume cranks up. I pushed the control button on the chord that also mutes the microphone to turn the…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-10-24",
+    "week_end": "2016-10-28",
+    "review_count": 893,
+    "low_data": false,
+    "sentiment": 46.8,
+    "mix_pct": {
+      "positive": 75.5,
+      "neutral": 6.3,
+      "negative": 18.3
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 51,
+        "sentiment": 60.8
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 66.5
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 42,
+        "sentiment": 50.8
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 28,
+        "sentiment": -26.6
+      },
+      {
+        "parent_asin": "B01LW71IBJ",
+        "product": "B01LW71IBJ",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 34.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B004OVECU0",
+        "posted": "2016-10-26",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 163,
+        "title": "Exceeded my expectations",
+        "excerpt": "My previous universal remote was the &#34;Re,&#34; which is basically software plus an infrared blaster that attaches to an iPhone or iPad. I loved it, but programming it was an intense affair which involved a lot of trial and error. I ended up with a brilliant remote that did everything I wanted it to, so when my spouse dropped the iPad and bent the IR blaster, I was fairly devastated. I was…"
+      },
+      {
+        "product": "B006JH8T3S",
+        "posted": "2016-10-28",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 109,
+        "title": "Crisp and clean. Very happy.",
+        "excerpt": "I must say, this webcam is a blast! USB, easy to setup, works with any program that can use a webcam as a device. I have had zero problems with this so far. I picked this up for $55, for that price this is a steal. This is the streamers webcam of choice on all major websites. Keep in mind, this is only for the webcam, you do not get any tripod's or any other attachments. BUT it can clip onto the…"
+      },
+      {
+        "product": "B00FVE9HE0",
+        "posted": "2016-10-22",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 25,
+        "title": "FAKE IMITATION DO NOT BUY",
+        "excerpt": "FAKE imITATION. DO NOT BUY. I spent almost 40.00 on this flimsy lightweight charger. My speaker needs a higher voltage & my other was misplaced at an event. It's unfortunate that people prey on and take advantage of other people. Hope karma catches up."
+      },
+      {
+        "product": "B01C6ESQM6",
+        "posted": "2016-10-23",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 18,
+        "title": "It's only 120v can not use in EU",
+        "excerpt": "Can not use in EU... dissapointing"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-10-31",
+    "week_end": "2016-11-04",
+    "review_count": 859,
+    "low_data": false,
+    "sentiment": 38.8,
+    "mix_pct": {
+      "positive": 69.4,
+      "neutral": 6.6,
+      "negative": 24.0
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 50,
+        "sentiment": 40.6
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 45.2
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 28,
+        "sentiment": -6.6
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 26,
+        "sentiment": 60.2
+      },
+      {
+        "parent_asin": "B003VAHYNC",
+        "product": "B003VAHYNC",
+        "category": null,
+        "reviews": 24,
+        "sentiment": 60.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BHFGL8H8",
+        "posted": "2016-11-02",
+        "stars": 4,
+        "sentiment": 35,
+        "helpful_votes": 27,
+        "title": "Logitech C922 Cammodel Review",
+        "excerpt": "I currently own this webcam and have found it be a nice camera but I'm not sure if it will be able to compete with the Razr Stargazer another webcam that promises to cancel backgrounds without the use of a greenscreen. The Logitech C922 does provide a very sharp image straight out of the box with zero modifications in software. Its not a bad camera but after using it for several weeks I don't…"
+      },
+      {
+        "product": "B01LZAK8MM",
+        "posted": "2016-11-02",
+        "stars": 4,
+        "sentiment": 55,
+        "helpful_votes": 10,
+        "title": "Logitech Stood Behind Its Product!",
+        "excerpt": "Revised Dec. 2, 2016: To its credit, Logitech replaced my keyboard, whose battery door had broken on first use. It took several weeks, but the company acknowledged the delay and, to apologize, didn't ask me to go through the hassle of returning the original keyboard. (I had mailed the broken battery door with a note requesting replacement of that small part only.) The battery door is flimsy…"
+      },
+      {
+        "product": "B0BK6WLS36",
+        "posted": "2016-11-04",
+        "stars": 2,
+        "sentiment": -80,
+        "helpful_votes": 18,
+        "title": "Mute button stopped working after 1 month",
+        "excerpt": "It was great while the mute button lasted. Lasted about a month, and then the mute button/switch no longer worked. Let me tell you, it's great being on a conference call at work and having your dog barking in the background and the mute switch is on and people ask &#34;is that your dog?'. Also, there were times people couldn't hear me, even when the mute button was not switched on. Would not…"
+      },
+      {
+        "product": "B00BQ5RY1G",
+        "posted": "2016-10-30",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 16,
+        "title": "Nothing works ... at all",
+        "excerpt": "My remote and hub came in the mail today. Physical setup was fairly easy. I then used the android app to connect it to my various devices and set up activities. While attempting to set up &#34;favorite channels&#34; the app started to fail. After a while, the app wouldn't even load. I tried the iOS app and the desktop app. None of them were functional. I went looking for the support webpage and…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-11-07",
+    "week_end": "2016-11-11",
+    "review_count": 882,
+    "low_data": false,
+    "sentiment": 43.7,
+    "mix_pct": {
+      "positive": 73.0,
+      "neutral": 7.6,
+      "negative": 19.4
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 41,
+        "sentiment": 57.8
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 41,
+        "sentiment": 66.5
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 39,
+        "sentiment": 58.5
+      },
+      {
+        "parent_asin": "B08ZFS2NFC",
+        "product": "B08ZFS2NFC",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 61.1
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 25,
+        "sentiment": 60.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0043T7FXE",
+        "posted": "2016-11-10",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 168,
+        "title": "Great product that can be made even greater with an angled stand",
+        "excerpt": "I've been a trackball user since the days before MP3s. This is my current favorite model. Affordable, reliable, cordless, and nicely shaped. I was using it so much that my arm started hurting until I realized I was using it at the wrong angle. I do 3d printing and designed a stand to make it even better and more ergonomic. I would highly recommend this product especially with a padded rest and…"
+      },
+      {
+        "product": "B01C6EN23O",
+        "posted": "2016-11-11",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 129,
+        "title": "Best bang for your buck if you are looking for PC/home entertainment surround!",
+        "excerpt": "These speakers are awesome. I had the older smaller 75 watt 5.1 logitech speakers and they lasted me about ten years for all kinds of things, music, movies, gaming, etc. They were a tremendous value. Unfortunately one of the satellites gave out and it was time to upgrade to their big brother. This model is awesome. It booms in my living room for anything, especially HD movies. I have no…"
+      },
+      {
+        "product": "B0BBR3YMWF",
+        "posted": "2016-11-11",
+        "stars": 1,
+        "sentiment": -70,
+        "helpful_votes": 69,
+        "title": "I loved these speakers until out of the blue",
+        "excerpt": "I loved these speakers until out of the blue, not even a year after purchasing... they just stopped. The light is still on, everything else looks normal except now there's no sound."
+      },
+      {
+        "product": "B01LA5B0W0",
+        "posted": "2016-11-09",
+        "stars": 2,
+        "sentiment": -70,
+        "helpful_votes": 25,
+        "title": "Very disappointing",
+        "excerpt": "Very disappointed with this unit. I bought this primarily to work with the Amazon Echo. My intention was for it to work with my entertainment system which includes a TV, AV receiver, Roku, Amazon TV and a Blu-ray player. I am currently using a Harmony 650 programmable remote. The goal was to use the Amazon Echo to control the devices. What I found was that the Echo/Harmony Hub combination is…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-11-14",
+    "week_end": "2016-11-18",
+    "review_count": 864,
+    "low_data": false,
+    "sentiment": 45.3,
+    "mix_pct": {
+      "positive": 73.4,
+      "neutral": 8.3,
+      "negative": 18.3
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 71.1
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 39,
+        "sentiment": 42.3
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 46.5
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 63.9
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 23,
+        "sentiment": 5.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01LVVG5XS",
+        "posted": "2016-11-17",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 64,
+        "title": "Good Sound",
+        "excerpt": "I purchased these because the speakers on my new fancy TV suck. these work great for what I needed. The sound is good, there are no vibrations or fuzzy sounding when they are turned up. It allows us to hear out of the front of the TV as apposed to the back. My boyfriend has trouble hearing just the TV. If you are looking for something that sounds good but easy on the budget, this is your item."
+      },
+      {
+        "product": "B005GTNZUM",
+        "posted": "2016-11-12",
+        "stars": 4,
+        "sentiment": 90,
+        "helpful_votes": 54,
+        "title": "Easy",
+        "excerpt": "I have had these for 3 years. Life would kind of suck without them. They are SUPER Light Weight! ( I have a big head so it helps!) I work from home, so I have needed something like this for a while to &#34;move around&#34; with. I LOVE that you can flip the mic up and down. The sound quality is superb for the price point. You can KEEP YOUR $200+ headphones! These suit me JUST FINE! :) It took me…"
+      },
+      {
+        "product": "B0BPN2DXC1",
+        "posted": "2016-11-15",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 46,
+        "title": "Be aware!! Logitech REFUSE to fulfill their warranty policy!!!",
+        "excerpt": "I purchased this product and it is not working properly after a while. It's not connecting, even after the trouble shooting they asked me to do. It is still under warranty period. So I requested for a replacement based on their own warranty policy. However, I can't believe a big company like Logitech would do this... They just ignored my request after I sent them the information they need…"
+      },
+      {
+        "product": "B0BK6SGHHB",
+        "posted": "2016-11-14",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 21,
+        "title": "Don't buy it for a Mac!!!",
+        "excerpt": "Doesn't work properly on my Mac. Tried changing USB ports, etc -- my MacBook Pro (2015) doesn't recognize it as a camera out of the box. I installed the logitech drivers from their website -- which they don't support past OS 10.6, by the way! -- and with that it works passably on non-native software but the utility software crashes on startup. Frame rate is choppy and laggy and native Mac…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-11-21",
+    "week_end": "2016-11-25",
+    "review_count": 791,
+    "low_data": false,
+    "sentiment": 43.1,
+    "mix_pct": {
+      "positive": 73.1,
+      "neutral": 6.1,
+      "negative": 20.9
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 35,
+        "sentiment": 63.3
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 31,
+        "sentiment": 62.2
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 32.8
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 28,
+        "sentiment": 61.0
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 26,
+        "sentiment": -26.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B07S84M2J6",
+        "posted": "2016-11-25",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 169,
+        "title": "Add this to your existing logitech hub!",
+        "excerpt": "I owned the basic logitech hub. I wanted to add the ultimate remote but didn't want to buy the $350 version with hub. While it is super hidden on their website you can absolutely add this to your existing hub, here is how. 1) update you hub to latest software 2) buy this remote 3) ignore the instructions it comes with, charge it, ignore the instructions on screen 4) open your harmony app on your…"
+      },
+      {
+        "product": "B005GB31PE",
+        "posted": "2016-11-20",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 47,
+        "title": "Easy to use; Much cheaper than buying a new mouse after losing your original receiver!",
+        "excerpt": "After losing the receiver for my Logitech M570, my absolute FAVORITE mouse, I was just about ready to buy a new one, when I realized that I could simply buy a new receiver and save some money. The receiver arrived in a small package, but was incredibly easy to install and use. The only thing you must do is download a piece of software called Logitech Unifying Software”. Once you install that and…"
+      },
+      {
+        "product": "B003VANOFY",
+        "posted": "2016-11-19",
+        "stars": 2,
+        "sentiment": -85,
+        "helpful_votes": 89,
+        "title": "Disappointing mess of a product, terrible support",
+        "excerpt": "I've never been this disappointed with a Logitech product before. First the good points. The sound quality is excellent, no one has ever had a problem hearing me. I never got a 10 hour charge out of the batteries as advertised, but got 5 or 6 at first. They are comfortable, they don't weight too much, they wrap securely around my head without being too tight and do a good job blocking out outside…"
+      },
+      {
+        "product": "B01C6EY9WW",
+        "posted": "2016-11-25",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 15,
+        "title": "It worked GREAT for about 6 months and the sub quit working",
+        "excerpt": "It worked GREAT for about 6 months and the sub quit working. I called Logiteh and without any hassle they sent me another entire system in a matter of days. Within about another 90 days the sub has gone out AGAIN. I called and spent 30 min on the phone with Logitech again and now I have to return the speaker, they will check it and then they will send me another speaker. Unfortunately, I have to…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-11-28",
+    "week_end": "2016-12-02",
+    "review_count": 1003,
+    "low_data": false,
+    "sentiment": 41.7,
+    "mix_pct": {
+      "positive": 72.1,
+      "neutral": 7.1,
+      "negative": 20.8
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 64,
+        "sentiment": 54.9
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 43,
+        "sentiment": 49.8
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 34,
+        "sentiment": 60.1
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 32,
+        "sentiment": 56.4
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 30,
+        "sentiment": -25.0
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0036E8V08",
+        "posted": "2016-11-30",
+        "stars": 4,
+        "sentiment": 75,
+        "helpful_votes": 19,
+        "title": "The Good: - The unifying receiver is great",
+        "excerpt": "I have had several of these over the years. From my perspective, here's the scoop. The Good: - The unifying receiver is great. I like the one small receiver that I can plug into a USB port and run both the mouse and keyboard from. I also like the fact that I can use the same receiver for a travel mouse and/or keyboard on the same laptop. - Build quality is solid. It feels just a little plastic-y,…"
+      },
+      {
+        "product": "B00EZMT01Y",
+        "posted": "2016-11-29",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 16,
+        "title": "Bought in 2013!",
+        "excerpt": "Update: This product lasted from 2013 to 2021! In the last couple years, it took some abuse because of my poor desk setup. I damaged the input cable which may have contributed to the catastrophic cable failure that did this speaker in. During all that time, it was a great speaker and I will replace it with the same unless I decide on an upgrade. Also, for users experiencing a HUMMING noise even…"
+      },
+      {
+        "product": "B005L38VRU",
+        "posted": "2016-12-02",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 53,
+        "title": "Nice feel. Works right out of the box. no caps lock indicator light. puzzling icons. Only worked great for 2.5 months",
+        "excerpt": "Im downgrading this from 4 stars to one. I purchased it Dec 2, 2016. today is February 25, 2017. Ive had it for less than 3 months. In the beginning it charged super fast and never drained. It was amazing. However, in the past few weeks it drains in less than a day and no longer charges unless I pop it in the window. And then only charges nicely if the sun is shining. there is no way to know when…"
+      },
+      {
+        "product": "B0BBR3YMWF",
+        "posted": "2016-11-27",
+        "stars": 1,
+        "sentiment": -60,
+        "helpful_votes": 20,
+        "title": "They are Logitech speakers. Of course they are amazing! Specs of these speakers in review. OR SO I THOUGHT!",
+        "excerpt": "Amazing speakers. very slick and a perfect size I had no problem setting these speakers up they are very simple. The power On/Off is on the volume knob which is very nice as well as the AUX port is located on the volume knob. They sound amazingly nice very clear and very nice Bass. I use these for gaming and listening to music and I only have 1 complaint. I wish for the price they could have…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-12-05",
+    "week_end": "2016-12-09",
+    "review_count": 1207,
+    "low_data": false,
+    "sentiment": 47.6,
+    "mix_pct": {
+      "positive": 74.3,
+      "neutral": 8.1,
+      "negative": 17.6
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 82,
+        "sentiment": 57.3
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 46,
+        "sentiment": 62.9
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 25.1
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 33,
+        "sentiment": -21.2
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 58.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B07S84M2J6",
+        "posted": "2016-12-06",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 18,
+        "title": "Excellent replacement for a Harmony One",
+        "excerpt": "I purchased the Logitech Advanced Remote Harmony 950 to replace an aging Harmony One. Having read all of the mostly negative reviews of the newer upper-end Harmony remotes, I was trying to baby my Harmony One as long as possible. When I started reading reviews of the 950, it seemed like it might be a good choice as a replacement. I finally decided to order it, and have been quite pleased with it…"
+      },
+      {
+        "product": "B0BBR3YMWF",
+        "posted": "2016-12-06",
+        "stars": 5,
+        "sentiment": 70,
+        "helpful_votes": 12,
+        "title": "Overall, it is a good system for the money.",
+        "excerpt": "[[VIDEOID:65976a9ffe70283d40a7d100767efe01]] [[VIDEOID:e91fc1239c87d2327031649ca2ad67fd]] I just recently bought this Z333 system. I have always liked Logitech speakers. The build quality is great and produces a decent sound experience. I was not disappointed with this system. Nice 2.1 channel setup, the little knob for volume control is really nicely designed, engineered and smooth when…"
+      },
+      {
+        "product": "B003VANO7C",
+        "posted": "2016-12-06",
+        "stars": 2,
+        "sentiment": -45,
+        "helpful_votes": 59,
+        "title": "Beware of Poor Quality / Reduced Cost Manufacturers: But Logitech Honored Warranty",
+        "excerpt": "--------------------------------------UPDATE (March 21, 2017)------------------------------------- I have now received the replacement warranty keyboard. The warranty process was not difficult to initiate, though there were some hoops to jump through and it took a while. Logitech was pretty good about following up during the process as well. Kudos! The replacement keyboard appears to be of…"
+      },
+      {
+        "product": "B00L1Y11D4",
+        "posted": "2016-12-05",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 32,
+        "title": "fake version/copy product came...",
+        "excerpt": "Looks like a copy version of Logitech product came... Issuing the return order now... How was this possible???"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-12-12",
+    "week_end": "2016-12-16",
+    "review_count": 1079,
+    "low_data": false,
+    "sentiment": 48.6,
+    "mix_pct": {
+      "positive": 76.9,
+      "neutral": 5.0,
+      "negative": 18.1
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 62,
+        "sentiment": 72.1
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 36,
+        "sentiment": 64.4
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 30,
+        "sentiment": 68.4
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 29,
+        "sentiment": 33.3
+      },
+      {
+        "parent_asin": "B00TZR3WRM",
+        "product": "B00TZR3WRM",
+        "category": null,
+        "reviews": 27,
+        "sentiment": 35.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "B01LW71IBJ",
+        "posted": "2016-12-10",
+        "stars": 5,
+        "sentiment": 85,
+        "helpful_votes": 344,
+        "title": "Low Volume Issues!? Read for insta-fix!",
+        "excerpt": "Low Volume Issues!? Read below for insta-fix! They are great speakers, however, they did not come with any instructions or pictures... I know what you may be thinking, &#34;they are just speakers... Plug them in and listen&#34; :) well I missed the Speaker Output on the rear of the subwoofer and instead plugged them into the headphone jack on the little corded remote. I was devastated when I…"
+      },
+      {
+        "product": "B09854KSCF",
+        "posted": "2016-12-16",
+        "stars": 5,
+        "sentiment": 90,
+        "helpful_votes": 14,
+        "title": "Bottom line: It's quiet. Logitech has my mouse and keyboard business.",
+        "excerpt": "I wanted a mouse specializing in two features: (1) quiet and (2) big. I am using the mouse primarily for the purpose of playing a few classic computer games. Those games require a high amount of clicking, and therefore I wanted a quiet mouse! This mouse delivers on that feature. It is practically silent. Basically the sound you hear is just quiet confirmation that you've clicked. I also had…"
+      },
+      {
+        "product": "B07S84M2J6",
+        "posted": "2016-12-14",
+        "stars": 1,
+        "sentiment": -95,
+        "helpful_votes": 15,
+        "title": "The Logitech Harmony 950 is a definitely DO NOT BUY.",
+        "excerpt": "This particular Logitech harmony 950 is a definitely DO NOT BUY. It has heat sensitive button controls and display. placing your had on the controller to pick it up or put it down will turn on or change your TV, start a movie un intended, change channels but most probably get itself mixed up and hard to get to any TV channel , get it turned on or off, and if you have a sound system, it will…"
+      },
+      {
+        "product": "B01LVVG5XS",
+        "posted": "2016-12-14",
+        "stars": 1,
+        "sentiment": -75,
+        "helpful_votes": 8,
+        "title": "noticable humming noise",
+        "excerpt": "Both the speakers and headphones have a humming noise that's loud enough to be distracting."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-12-19",
+    "week_end": "2016-12-23",
+    "review_count": 1040,
+    "low_data": false,
+    "sentiment": 46.5,
+    "mix_pct": {
+      "positive": 75.4,
+      "neutral": 5.6,
+      "negative": 19.0
+    },
+    "top_products": [
+      {
+        "parent_asin": "B0043T7FXE",
+        "product": "B0043T7FXE",
+        "category": null,
+        "reviews": 51,
+        "sentiment": 53.3
+      },
+      {
+        "parent_asin": "B006JH8T3S",
+        "product": "B006JH8T3S",
+        "category": null,
+        "reviews": 40,
+        "sentiment": 57.1
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 38,
+        "sentiment": 26.4
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 57.7
+      },
+      {
+        "parent_asin": "B019OB663A",
+        "product": "B019OB663A",
+        "category": null,
+        "reviews": 33,
+        "sentiment": 60.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "B0BHFGL8H8",
+        "posted": "2016-12-19",
+        "stars": 4,
+        "sentiment": 85,
+        "helpful_votes": 858,
+        "title": "c922 vs Razer Stargazer Video Expamples",
+        "excerpt": "[[VIDEOID:a4e9c8ed642c79ca0062297c2b561d0]] This is a great webcam. absolutely simple to set up and captures bright, vivid crisp video with exceptional detail. It does brighten the images brighter than the actual light in the room, but the end result looks great. I've included sample video comparing this Logitech c922 to the Razer Stargazer. Please Leave Comments as to your impression based on…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-12-22",
+        "stars": 5,
+        "sentiment": 95,
+        "helpful_votes": 16,
+        "title": "I can not explain how happy i am with this keyboard / track pad",
+        "excerpt": "I purchased this for my HTPC setup in the living room. I can not explain how happy i am with this keyboard / track pad. It works perfectly, i can sit on my couch and it will not miss a beat if i am using the pad or typing on the keyboard. This is not something you will want if you are hooking it to a gaming PC or something like that, but for a HTPC this is all you need. Inexpensive!! My OLD…"
+      },
+      {
+        "product": "B002HWRJBM",
+        "posted": "2016-12-21",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 10,
+        "title": "Stopped working in Less than 6 months",
+        "excerpt": "In less than 6 months the left click has stopped functioning properly. When I go to highlight text it does not work and when I try to click on something about 50% of the time the click command does not go through. I am upset because I paid over $55 for the wireless mouse and it does not work in less than 6 months."
+      },
+      {
+        "product": "B0043T7FXE",
+        "posted": "2016-12-18",
+        "stars": 1,
+        "sentiment": -80,
+        "helpful_votes": 6,
+        "title": "Two Defective units in 3 months.",
+        "excerpt": "I love this mouse and I hate this company for making a crappy internal design that breaks down. Really I love this design, and hate the executive who moved QC on this product to some corruption infested chinese backwater. Logitech used to fulfill their patents with quality products. Find something that works."
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2016-12-26",
+    "week_end": "2016-12-30",
+    "review_count": 1186,
+    "low_data": false,
+    "sentiment": 48.6,
+    "mix_pct": {
+      "positive": 76.4,
+      "neutral": 5.8,
+      "negative": 17.8
+    },
+    "top_products": [
+      {
+        "parent_asin": "B019OB663A",
+        "product": "B019OB663A",
+        "category": null,
+        "reviews": 57,
+        "sentiment": 71.5
+      },
+      {
+        "parent_asin": "B07FP8VLXS",
+        "product": "B07FP8VLXS",
+        "category": null,
+        "reviews": 52,
+        "sentiment": 57.9
+      },
+      {
+        "parent_asin": "B0148NPJ78",
+        "product": "B0148NPJ78",
+        "category": null,
+        "reviews": 45,
+        "sentiment": 45.0
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 43,
+        "sentiment": -9.0
+      },
+      {
+        "parent_asin": "B004OVECU0",
+        "product": "B004OVECU0",
+        "category": null,
+        "reviews": 39,
+        "sentiment": 20.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "B003VAGXZC",
+        "posted": "2016-12-27",
+        "stars": 5,
+        "sentiment": 60,
+        "helpful_votes": 81,
+        "title": "Please read this review if you're having latency problems with this keyboard in Windows 10!",
+        "excerpt": "I bought this keyboard and mouse combo about a month ago. Instead of using the mouse it came with, I paired it with a Logitech M705 mouse. I began having latency issues as others have described, but even worse problems with the aforementioned mouse. The short: DISABLE the Logitech Setpoint software AFTER you set everything up. Leave it installed, but remove it from running at login. Yes, you WILL…"
+      },
+      {
+        "product": "B00EZMT01Y",
+        "posted": "2016-12-29",
+        "stars": 4,
+        "sentiment": 60,
+        "helpful_votes": 22,
+        "title": "Surprisingly good sound for the money and size.",
+        "excerpt": "Surprisingly good sound for the money and size. I'm quite pleased with the sound quality and volume for this small, single speaker. I used one of these to replace the 2.1 speakers of someone who hates the sight of wires and speakers, and with this I was actually able to hide the entire speaker behind the computer tower, wires and all. It's certainly not a competitor for even a low priced 2.1, but…"
+      },
+      {
+        "product": "B003VAHYNC",
+        "posted": "2016-12-29",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 192,
+        "title": "Counterfeit- Review updated after 6 mos of use. - buy the real Logitech model for $75",
+        "excerpt": "UPDATED 6 mos. Later: This product is definitely counterfeit. It is not actually a Logitech product although that's what the label says. It was half the price though and serves it's purpose. The side keys don't work and neither do any of the other keys besides the music control keys. I have used this product now for 6 months (Original purchase date 12/3/2016, date of review 06/05/2016). This…"
+      },
+      {
+        "product": "B003VANOFY",
+        "posted": "2016-12-27",
+        "stars": 1,
+        "sentiment": -75,
+        "helpful_votes": 62,
+        "title": "Tried every fix, never seemed to work.",
+        "excerpt": "When they work they are fine. I have tried every fix I could find online to stop them from randomly disconnecting. A known and very prevalent problem. Then you start to think you will just get used to it since it only cuts out for a second here and there. After the 30th time you've died playing a game because you couldn't hear anything it get's beyond frustrating. I have held them in my hands and…"
+      }
+    ],
+    "summary": null
+  },
+  {
+    "week_start": "2017-01-02",
+    "week_end": "2017-01-06",
+    "review_count": 129,
+    "low_data": true,
+    "sentiment": 47.6,
+    "mix_pct": {
+      "positive": 76.0,
+      "neutral": 6.2,
+      "negative": 17.8
+    },
+    "top_products": [
+      {
+        "parent_asin": "B01LW71IBJ",
+        "product": "B01LW71IBJ",
+        "category": null,
+        "reviews": 7,
+        "sentiment": 52.1
+      },
+      {
+        "parent_asin": "B003NR57BY",
+        "product": "B003NR57BY",
+        "category": null,
+        "reviews": 6,
+        "sentiment": 60.8
+      },
+      {
+        "parent_asin": "B00MUTWLW4",
+        "product": "B00MUTWLW4",
+        "category": null,
+        "reviews": 5,
+        "sentiment": 65.0
+      },
+      {
+        "parent_asin": "B0148NPJ78",
+        "product": "B0148NPJ78",
+        "category": null,
+        "reviews": 5,
+        "sentiment": 25.0
+      },
+      {
+        "parent_asin": "B003VANOFY",
+        "product": "B003VANOFY",
+        "category": null,
+        "reviews": 4,
+        "sentiment": -40.0
+      }
+    ],
+    "examples": [
+      {
+        "product": "B08ZFS2NFC",
+        "posted": "2016-12-31",
+        "stars": 5,
+        "sentiment": 70,
+        "helpful_votes": 2,
+        "title": "Great quality for the price",
+        "excerpt": "Pros: good audio quality, no need for phantom power or other equipment. if you're a beginner on a budget or don't need a fancy setup this is a one-and-done buy. Cons: depending on your setup the spherical shape can be somewhat bulky and awkward. does not fit a standard shock mount or have an XLR connector. if you're a quiet speaker you may need to keep the mic within about a foot from your face.…"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-12-31",
+        "stars": 4,
+        "sentiment": 50,
+        "helpful_votes": 1,
+        "title": "Good for kids hand size and maybe to use with ...",
+        "excerpt": "It's small. Good for kids hand size and maybe to use with a laptop"
+      },
+      {
+        "product": "B07FP8VLXS",
+        "posted": "2016-12-31",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 13,
+        "title": "Poor keyboard and poor touch-pad sensitivity.",
+        "excerpt": "I'm amazed at the 5 star reviews for this!? I'm usually fan of Logitech devices but this one was a glaring exception. The plastic was flimsy and flexed when typing. The keys had little travel. The mouse pad had such poor sensitivity that I had to crank the sensitivity bar all the way up in Windows settings to make it usable. Even then it wasn't all that accurate or good. Look elsewhere!"
+      },
+      {
+        "product": "B004OVECU0",
+        "posted": "2016-12-31",
+        "stars": 1,
+        "sentiment": -90,
+        "helpful_votes": 1,
+        "title": "Hate this remote. It never works properly.",
+        "excerpt": "I hate this remote. I have to constantly click the fix button on the remote. I would never recommend this remote to anyone. I wish I could return it for a credit towards one of their better models. I love harmony remotes usually."
+      }
+    ],
+    "summary": null
+  }
+]
