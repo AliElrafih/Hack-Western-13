@@ -1,0 +1,95 @@
+/*
+ * Design tokens. Colour carries meaning and never changes between screens:
+ * stock = white, sentiment = amber, market (NASDAQ) = slate, stars = lilac,
+ * comparison window A = sky, window B = pink.
+ */
+:root {
+  /* Surfaces */
+  --bg: #07090c;
+  --panel: #0e1218;
+  --panel-sunk: #0a0d11;
+  --line: #1e2530;
+  --line-strong: #2a3340;
+
+  /* Text (all pass 4.5:1 on --panel) */
+  --text: #eef2f6;
+  --text-soft: #b9c3d0;
+  --text-muted: #9aa6b6;
+
+  /* Meaning colours */
+  --stock: #f5f7fa;
+  --sentiment: #ffb547;
+  --sentiment-ink: #1a1206;
+  --sentiment-tint: #1a1408;
+  --market: #6e7d91;
+  --stars: #c49bff;
+  --window-a: #38bdf8;
+  --window-b: #f472b6;
+  --hit: #4ade80;
+  --miss: #ff6b5b;
+  --warn: #f5c451;
+
+  /* Type */
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-display: 'Space Grotesk', 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* Layout */
+  --max-w: 1200px;
+  --radius: 14px;
+  --radius-sm: 10px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--sentiment);
+}
+
+:focus-visible {
+  outline: 2px solid var(--sentiment);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

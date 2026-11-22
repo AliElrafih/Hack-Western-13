@@ -1,0 +1,30 @@
+[
+  {
+    "ticker": "LOGI",
+    "name": "Logitech",
+    "sells": "Mice, keyboards, webcams, headsets",
+    "range": { "start": "2016-01-04", "end": "2017-12-29", "label": "Jan 2016 – Dec 2017" },
+    "status": "live"
+  },
+  {
+    "ticker": "CROX",
+    "name": "Crocs",
+    "sells": "Clogs, sandals, HEYDUDE shoes",
+    "range": null,
+    "status": "coming_soon"
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers",
+    "sells": "UGG boots, HOKA running shoes",
+    "range": null,
+    "status": "coming_soon"
+  },
+  {
+    "ticker": "OLPX",
+    "name": "Olaplex",
+    "sells": "Hair care",
+    "range": null,
+    "status": "coming_soon"
+  }
+]

@@ -1,0 +1,72 @@
+.header {
+  border-bottom: 1px solid var(--line);
+}
+
+.inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 20px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 19px;
+}
+
+.context {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--text-soft);
+}
+
+.steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.step {
+  display: inline-block;
+  padding: 12px;
+  border-radius: 8px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  text-decoration: none;
+}
+
+a.step:hover {
+  color: var(--text);
+  background: var(--panel);
+}
+
+.stepActive,
+a.stepActive:hover {
+  background: var(--sentiment-tint);
+  color: var(--sentiment);
+  font-weight: 700;
+}
+
+.stepDisabled {
+  color: var(--text-muted);
+  opacity: 0.6;
+  cursor: not-allowed;
+}

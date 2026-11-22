@@ -1,0 +1,194 @@
+/* Hero */
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 72px 0 56px;
+}
+
+.heroCopy {
+  flex: 1 1 520px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.headline {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(40px, 6vw, 64px);
+  line-height: 1.02;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.accent {
+  color: var(--sentiment);
+}
+
+.subline {
+  margin: 0;
+  max-width: 600px;
+  font-size: 19px;
+  line-height: 1.55;
+  color: var(--text-soft);
+}
+
+.preview {
+  flex: 0 1 380px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--panel);
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--text-soft);
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.swatch {
+  width: 18px;
+  height: 3px;
+  border-radius: 2px;
+}
+
+/* Company list: rows, not a card grid */
+.pick {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding-bottom: 56px;
+}
+
+.pickHeading {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+.item {
+  border-bottom: 1px solid var(--line);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px 32px;
+  padding: 22px 8px;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.rowLive {
+  border-radius: var(--radius-sm);
+  transition: background-color 120ms ease;
+}
+
+.rowLive:hover {
+  background: var(--panel);
+}
+
+.rowLive:hover .cta {
+  background: #ffc56e;
+}
+
+.rowSoon {
+  color: var(--text-muted);
+}
+
+.ticker {
+  flex: 0 0 120px;
+  font-family: var(--font-mono);
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.what {
+  flex: 1 1 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.rowSoon .name {
+  color: var(--text-soft);
+}
+
+.sells {
+  font-size: 15px;
+  color: var(--text-soft);
+}
+
+.rowSoon .sells {
+  color: var(--text-muted);
+}
+
+.range {
+  flex: 0 1 220px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--text-soft);
+}
+
+.rowSoon .range {
+  color: var(--text-muted);
+}
+
+.cta {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  border-radius: var(--radius-sm);
+  background: var(--sentiment);
+  color: var(--sentiment-ink);
+  font-weight: 700;
+  font-size: 15px;
+  transition: background-color 120ms ease;
+}
+
+.soonBadge {
+  flex: 0 0 auto;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  border: 1px dashed var(--line-strong);
+  font-family: var(--font-mono);
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}

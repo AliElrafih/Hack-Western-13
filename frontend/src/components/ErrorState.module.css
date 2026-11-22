@@ -1,0 +1,44 @@
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  padding: 20px;
+  border: 1px solid #5a2620;
+  border-radius: var(--radius);
+  background: #160b0a;
+}
+
+.copy {
+  flex: 1 1 300px;
+}
+
+.title {
+  margin: 0 0 4px;
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.body {
+  margin: 0;
+  font-size: 15px;
+  color: #f0c9c3;
+}
+
+.retry {
+  height: 44px;
+  padding: 0 18px;
+  border: 1px solid var(--miss);
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: #ffb4aa;
+  font: inherit;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.retry:hover {
+  background: #2a1210;
+}
