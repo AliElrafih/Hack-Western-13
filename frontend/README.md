@@ -26,9 +26,14 @@ public/data/          mock JSON now, real files from the Python scripts later
 | Route | Screen | Status |
 | --- | --- | --- |
 | `/` | 1 Pick a company | Done |
-| `/timeline/:ticker` | 2 Timeline | Placeholder |
+| `/timeline/:ticker` | 2 Timeline | Done (mock data) |
 | `/compare/:ticker` | 3 Compare two windows | Placeholder |
 | `/prediction/:ticker` | 4 Prediction and why | Placeholder |
+
+## Mock data
+
+`public/data/weeks.json`, `week_details.json` and `earnings.json` are MOCK files made by
+`node scripts/make-mock-data.mjs`. Replace them with the pipeline's real files; keep the field names.
 
 ## Data files
 
@@ -45,3 +50,22 @@ public/data/          mock JSON now, real files from the Python scripts later
 ```
 
 `status` is `"live"` or `"coming_soon"`; coming-soon companies have `"range": null`.
+
+`weeks.json`: one row per trading week.
+
+```json
+{ "week": "2016-01-04", "start": "2016-01-04", "end": "2016-01-08",
+  "close": 14.47, "pct_change": -0.88, "market_close": 4945.81, "market_pct_change": -0.89,
+  "sentiment": 46.3, "avg_stars": 4.19, "review_count": 6, "low_data": true }
+```
+
+`week_details.json`: keyed by week id.
+
+```json
+{ "2016-01-04": {
+    "summary": "Gemini summary...",
+    "products": [{ "name": "MX Master wireless mouse", "reviews": 42, "sentiment": 31.5 }],
+    "examples": [{ "product": "MX Master wireless mouse", "date": "2016-01-05", "stars": 4, "text": "..." }] } }
+```
+
+`earnings.json`: `[{ "date": "2016-01-26" }, ...]`

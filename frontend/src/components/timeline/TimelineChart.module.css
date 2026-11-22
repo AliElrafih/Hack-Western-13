@@ -1,0 +1,64 @@
+.wrap {
+  width: 100%;
+  min-width: 0;
+}
+
+.wrap :global(.recharts-surface) {
+  overflow: visible;
+}
+
+.wrap :global(.recharts-wrapper:focus),
+.wrap :global(.recharts-surface:focus) {
+  outline: none;
+}
+
+.tip {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 14px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  background: #12171f;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.55);
+  font-size: 14px;
+  color: var(--text);
+}
+
+.tipDate {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-soft);
+}
+
+.tipRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.tipVal {
+  font-family: var(--font-mono);
+  font-weight: 700;
+}
+
+.tipMarket {
+  color: #9aa8bb;
+}
+
+.tipMuted {
+  color: var(--text-soft);
+}
+
+.tipLow {
+  color: var(--warn);
+  font-size: 11px;
+}
+
+.tipNote {
+  padding-top: 6px;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+  color: var(--text-muted);
+}

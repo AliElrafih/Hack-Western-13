@@ -1,0 +1,4162 @@
+{
+  "2016-01-04": {
+    "summary": "[Mock] Gemini summary for the week of 2016-01-04. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 3,
+        "sentiment": 61.9
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 2,
+        "sentiment": 33.6
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 2,
+        "sentiment": 36.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-01-04",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-01-05",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-01-06",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-01-11": {
+    "summary": "[Mock] Gemini summary for the week of 2016-01-11. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 3,
+        "sentiment": 48.1
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 3,
+        "sentiment": 39.9
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 1,
+        "sentiment": 35.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2016-01-11",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-01-12",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-01-13",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-01-18": {
+    "summary": "[Mock] Gemini summary for the week of 2016-01-18. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 92,
+        "sentiment": 52.7
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 48,
+        "sentiment": 42.2
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 92,
+        "sentiment": 68.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-01-18",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-01-19",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-01-20",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-01-25": {
+    "summary": "[Mock] Gemini summary for the week of 2016-01-25. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 47,
+        "sentiment": 49.5
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 77,
+        "sentiment": 47.4
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 66,
+        "sentiment": 37.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2016-01-25",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-01-26",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-01-27",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-02-01": {
+    "summary": "[Mock] Gemini summary for the week of 2016-02-01. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 118,
+        "sentiment": 78.6
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 103,
+        "sentiment": 62.7
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 80,
+        "sentiment": 77.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-02-01",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-02-02",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-02-03",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-02-08": {
+    "summary": "[Mock] Gemini summary for the week of 2016-02-08. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 85,
+        "sentiment": 70.8
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 34,
+        "sentiment": 61.2
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 85,
+        "sentiment": 49.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-02-08",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-02-09",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-02-10",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-02-15": {
+    "summary": "[Mock] Gemini summary for the week of 2016-02-15. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 112,
+        "sentiment": 83.5
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 79,
+        "sentiment": 74.4
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 97,
+        "sentiment": 71.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-02-15",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-02-16",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-02-17",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-02-22": {
+    "summary": "[Mock] Gemini summary for the week of 2016-02-22. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 82,
+        "sentiment": 63.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 92,
+        "sentiment": 43.4
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 69,
+        "sentiment": 45.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-02-22",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-02-23",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-02-24",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-02-29": {
+    "summary": "[Mock] Gemini summary for the week of 2016-02-29. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 113,
+        "sentiment": 66.9
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 81,
+        "sentiment": 77.6
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 98,
+        "sentiment": 72.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-02-29",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-03-01",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-03-02",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-03-07": {
+    "summary": "[Mock] Gemini summary for the week of 2016-03-07. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 62,
+        "sentiment": 59.5
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 56,
+        "sentiment": 40
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 116,
+        "sentiment": 61.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-03-07",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-03-08",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-03-09",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-03-14": {
+    "summary": "[Mock] Gemini summary for the week of 2016-03-14. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 45,
+        "sentiment": 53.6
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 118,
+        "sentiment": 68.4
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 69,
+        "sentiment": 58.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-03-14",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-03-15",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-03-16",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-03-21": {
+    "summary": "[Mock] Gemini summary for the week of 2016-03-21. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 108,
+        "sentiment": 60.6
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 99,
+        "sentiment": 52.8
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 98,
+        "sentiment": 39.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-03-21",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-03-22",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-03-23",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-03-28": {
+    "summary": "[Mock] Gemini summary for the week of 2016-03-28. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 67,
+        "sentiment": 44.9
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 119,
+        "sentiment": 36.5
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 104,
+        "sentiment": 25.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-03-28",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-03-29",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-03-30",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-04-04": {
+    "summary": "[Mock] Gemini summary for the week of 2016-04-04. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 43,
+        "sentiment": 22.4
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 34,
+        "sentiment": 46
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 47,
+        "sentiment": 48.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-04-04",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-04-05",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-04-06",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-04-11": {
+    "summary": "[Mock] Gemini summary for the week of 2016-04-11. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 36,
+        "sentiment": 21.4
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 109,
+        "sentiment": 40.6
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 71,
+        "sentiment": 55.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-04-11",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-04-12",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-04-13",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-04-18": {
+    "summary": "[Mock] Gemini summary for the week of 2016-04-18. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 68,
+        "sentiment": 19.7
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 36,
+        "sentiment": 35.3
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 81,
+        "sentiment": 26.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-04-18",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-04-19",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-04-20",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-04-25": {
+    "summary": "[Mock] Gemini summary for the week of 2016-04-25. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 85,
+        "sentiment": 50.2
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 60,
+        "sentiment": 57.2
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 102,
+        "sentiment": 57.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-04-25",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-04-26",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-04-27",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-05-02": {
+    "summary": "[Mock] Gemini summary for the week of 2016-05-02. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 86,
+        "sentiment": 57.4
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 44,
+        "sentiment": 45.2
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 110,
+        "sentiment": 42
+      }
+    ],
+    "examples": [
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-05-02",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-05-03",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-05-04",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-05-09": {
+    "summary": "[Mock] Gemini summary for the week of 2016-05-09. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 117,
+        "sentiment": 21.6
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 59,
+        "sentiment": 46.1
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 112,
+        "sentiment": 56.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2016-05-09",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-05-10",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-05-11",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-05-16": {
+    "summary": "[Mock] Gemini summary for the week of 2016-05-16. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 50,
+        "sentiment": 66.6
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 104,
+        "sentiment": 42.8
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 107,
+        "sentiment": 59.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-05-16",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-05-17",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-05-18",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-05-23": {
+    "summary": "[Mock] Gemini summary for the week of 2016-05-23. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 70,
+        "sentiment": 31.5
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 96,
+        "sentiment": 29.3
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 95,
+        "sentiment": 33.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-05-23",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-05-24",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-05-25",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-05-30": {
+    "summary": "[Mock] Gemini summary for the week of 2016-05-30. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 70,
+        "sentiment": 53.5
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 93,
+        "sentiment": 58.6
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 87,
+        "sentiment": 33
+      }
+    ],
+    "examples": [
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-05-30",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-05-31",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-06-01",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-06-06": {
+    "summary": "[Mock] Gemini summary for the week of 2016-06-06. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 81,
+        "sentiment": 13.9
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 56,
+        "sentiment": 37.9
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 114,
+        "sentiment": 33.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-06-06",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-06-07",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-06-08",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-06-13": {
+    "summary": "[Mock] Gemini summary for the week of 2016-06-13. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 45,
+        "sentiment": 49.2
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 113,
+        "sentiment": 37.9
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 78,
+        "sentiment": 31.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-06-13",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-06-14",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-06-15",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-06-20": {
+    "summary": "[Mock] Gemini summary for the week of 2016-06-20. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 42,
+        "sentiment": 12.8
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 111,
+        "sentiment": 13.9
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 51,
+        "sentiment": 38.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-06-20",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-06-21",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-06-22",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-06-27": {
+    "summary": "[Mock] Gemini summary for the week of 2016-06-27. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 56,
+        "sentiment": 10.3
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 64,
+        "sentiment": 3.1
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 89,
+        "sentiment": 4.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-06-27",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-06-28",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-06-29",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-07-04": {
+    "summary": "[Mock] Gemini summary for the week of 2016-07-04. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 1,
+        "sentiment": -5.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 2,
+        "sentiment": -20.3
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 3,
+        "sentiment": -8.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2016-07-04",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-07-05",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-07-06",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-07-11": {
+    "summary": "[Mock] Gemini summary for the week of 2016-07-11. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 57,
+        "sentiment": 1.3
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 52,
+        "sentiment": -22.9
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 65,
+        "sentiment": -20
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-07-11",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-07-12",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-07-13",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-07-18": {
+    "summary": "[Mock] Gemini summary for the week of 2016-07-18. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 116,
+        "sentiment": -11.6
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 46,
+        "sentiment": -28.6
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 105,
+        "sentiment": -5.1
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-07-18",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-07-19",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-07-20",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-07-25": {
+    "summary": "[Mock] Gemini summary for the week of 2016-07-25. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 71,
+        "sentiment": -8.6
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 111,
+        "sentiment": 2.9
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 54,
+        "sentiment": -4
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-07-25",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-07-26",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-07-27",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-08-01": {
+    "summary": "[Mock] Gemini summary for the week of 2016-08-01. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 67,
+        "sentiment": -22.5
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 64,
+        "sentiment": -13.4
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 71,
+        "sentiment": -11.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-08-01",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-08-02",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-08-03",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-08-08": {
+    "summary": "[Mock] Gemini summary for the week of 2016-08-08. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 83,
+        "sentiment": -1.1
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 108,
+        "sentiment": -37.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 83,
+        "sentiment": -22
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-08-08",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-08-09",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-08-10",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-08-15": {
+    "summary": "[Mock] Gemini summary for the week of 2016-08-15. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 81,
+        "sentiment": -1.2
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 86,
+        "sentiment": -17.1
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 72,
+        "sentiment": -31.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2016-08-15",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-08-16",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-08-17",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-08-22": {
+    "summary": "[Mock] Gemini summary for the week of 2016-08-22. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 97,
+        "sentiment": 12.7
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 49,
+        "sentiment": 7.5
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 35,
+        "sentiment": -0.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-08-22",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-08-23",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-08-24",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-08-29": {
+    "summary": "[Mock] Gemini summary for the week of 2016-08-29. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 92,
+        "sentiment": -4
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 60,
+        "sentiment": -4.9
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 55,
+        "sentiment": -8.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2016-08-29",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-08-30",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-08-31",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-09-05": {
+    "summary": "[Mock] Gemini summary for the week of 2016-09-05. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 69,
+        "sentiment": -8.8
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 47,
+        "sentiment": -12
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 40,
+        "sentiment": 17.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-09-05",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-09-06",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-09-07",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-09-12": {
+    "summary": "[Mock] Gemini summary for the week of 2016-09-12. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 106,
+        "sentiment": 1.3
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 71,
+        "sentiment": 14.9
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 80,
+        "sentiment": 13.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-09-12",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-09-13",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-09-14",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-09-19": {
+    "summary": "[Mock] Gemini summary for the week of 2016-09-19. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 112,
+        "sentiment": 24.5
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 67,
+        "sentiment": 19.4
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 93,
+        "sentiment": -0.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-09-19",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-09-20",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-09-21",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-09-26": {
+    "summary": "[Mock] Gemini summary for the week of 2016-09-26. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 86,
+        "sentiment": 5.8
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 98,
+        "sentiment": 16
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 43,
+        "sentiment": 29.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-09-26",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-09-27",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-09-28",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-10-03": {
+    "summary": "[Mock] Gemini summary for the week of 2016-10-03. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 67,
+        "sentiment": 7
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 35,
+        "sentiment": -6.2
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 96,
+        "sentiment": 1.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-10-03",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-10-04",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-10-05",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-10-10": {
+    "summary": "[Mock] Gemini summary for the week of 2016-10-10. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 51,
+        "sentiment": 27.1
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 90,
+        "sentiment": 20.1
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 60,
+        "sentiment": 13.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-10-10",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-10-11",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-10-12",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-10-17": {
+    "summary": "[Mock] Gemini summary for the week of 2016-10-17. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 47,
+        "sentiment": 20.9
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 100,
+        "sentiment": 17.2
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 92,
+        "sentiment": -4.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-10-17",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-10-18",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-10-19",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-10-24": {
+    "summary": "[Mock] Gemini summary for the week of 2016-10-24. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 96,
+        "sentiment": -1.5
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 41,
+        "sentiment": 23.7
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 66,
+        "sentiment": 18.1
+      }
+    ],
+    "examples": [
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-10-24",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-10-25",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-10-26",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-10-31": {
+    "summary": "[Mock] Gemini summary for the week of 2016-10-31. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 105,
+        "sentiment": 28.3
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 110,
+        "sentiment": 36.6
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 83,
+        "sentiment": 16.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-10-31",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-11-01",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-11-02",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-11-07": {
+    "summary": "[Mock] Gemini summary for the week of 2016-11-07. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 36,
+        "sentiment": 34.9
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 61,
+        "sentiment": 35.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 119,
+        "sentiment": 5
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2016-11-07",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-11-08",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-11-09",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-11-14": {
+    "summary": "[Mock] Gemini summary for the week of 2016-11-14. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 59,
+        "sentiment": 27.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 45,
+        "sentiment": 10.1
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 107,
+        "sentiment": 22
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-11-14",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-11-15",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-11-16",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-11-21": {
+    "summary": "[Mock] Gemini summary for the week of 2016-11-21. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 56,
+        "sentiment": 6
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 35,
+        "sentiment": 8.5
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 73,
+        "sentiment": 9.1
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-11-21",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-11-22",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-11-23",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-11-28": {
+    "summary": "[Mock] Gemini summary for the week of 2016-11-28. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 65,
+        "sentiment": 5.5
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 108,
+        "sentiment": 1
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 61,
+        "sentiment": 7.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-11-28",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2016-11-29",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-11-30",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-12-05": {
+    "summary": "[Mock] Gemini summary for the week of 2016-12-05. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 81,
+        "sentiment": 32.7
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 83,
+        "sentiment": 41.7
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 102,
+        "sentiment": 37.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-12-05",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2016-12-06",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2016-12-07",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-12-12": {
+    "summary": "[Mock] Gemini summary for the week of 2016-12-12. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 56,
+        "sentiment": 49.1
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 90,
+        "sentiment": 39.4
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 48,
+        "sentiment": 19.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-12-12",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-12-13",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2016-12-14",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-12-19": {
+    "summary": "[Mock] Gemini summary for the week of 2016-12-19. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 93,
+        "sentiment": 47.5
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 68,
+        "sentiment": 58.2
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 51,
+        "sentiment": 42.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2016-12-19",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2016-12-20",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-12-21",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2016-12-26": {
+    "summary": "[Mock] Gemini summary for the week of 2016-12-26. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 2,
+        "sentiment": 43.3
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 3,
+        "sentiment": 48.6
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 2,
+        "sentiment": 40.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2016-12-26",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2016-12-27",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2016-12-28",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-01-02": {
+    "summary": "[Mock] Gemini summary for the week of 2017-01-02. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 1,
+        "sentiment": 45.4
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 3,
+        "sentiment": 35.9
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 3,
+        "sentiment": 65
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-01-02",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-01-03",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-01-04",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-01-09": {
+    "summary": "[Mock] Gemini summary for the week of 2017-01-09. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 87,
+        "sentiment": 80.3
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 34,
+        "sentiment": 78.9
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 44,
+        "sentiment": 74.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-01-09",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-01-10",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-01-11",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-01-16": {
+    "summary": "[Mock] Gemini summary for the week of 2017-01-16. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 119,
+        "sentiment": 74.4
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 84,
+        "sentiment": 56
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 116,
+        "sentiment": 60.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2017-01-16",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-01-17",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-01-18",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-01-23": {
+    "summary": "[Mock] Gemini summary for the week of 2017-01-23. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 39,
+        "sentiment": 74.9
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 97,
+        "sentiment": 58.2
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 73,
+        "sentiment": 79.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-01-23",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-01-24",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-01-25",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-01-30": {
+    "summary": "[Mock] Gemini summary for the week of 2017-01-30. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 104,
+        "sentiment": 80.9
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 66,
+        "sentiment": 93.5
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 96,
+        "sentiment": 83.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-01-30",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-01-31",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-02-01",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-02-06": {
+    "summary": "[Mock] Gemini summary for the week of 2017-02-06. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 52,
+        "sentiment": 57
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 65,
+        "sentiment": 61.4
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 77,
+        "sentiment": 45.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-02-06",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-02-07",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-02-08",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-02-13": {
+    "summary": "[Mock] Gemini summary for the week of 2017-02-13. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 96,
+        "sentiment": 58.1
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 46,
+        "sentiment": 50.1
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 34,
+        "sentiment": 72.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-02-13",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-02-14",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-02-15",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-02-20": {
+    "summary": "[Mock] Gemini summary for the week of 2017-02-20. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 94,
+        "sentiment": 67.8
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 118,
+        "sentiment": 51.4
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 100,
+        "sentiment": 72.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-02-20",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-02-21",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-02-22",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-02-27": {
+    "summary": "[Mock] Gemini summary for the week of 2017-02-27. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 67,
+        "sentiment": 43.6
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 54,
+        "sentiment": 36.7
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 81,
+        "sentiment": 43.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2017-02-27",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-02-28",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-03-01",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-03-06": {
+    "summary": "[Mock] Gemini summary for the week of 2017-03-06. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 105,
+        "sentiment": 51.7
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 86,
+        "sentiment": 28.8
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 107,
+        "sentiment": 50.1
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-03-06",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-03-07",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-03-08",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-03-13": {
+    "summary": "[Mock] Gemini summary for the week of 2017-03-13. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 92,
+        "sentiment": 37.5
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 41,
+        "sentiment": 50.9
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 113,
+        "sentiment": 56.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2017-03-13",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-03-14",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-03-15",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-03-20": {
+    "summary": "[Mock] Gemini summary for the week of 2017-03-20. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 99,
+        "sentiment": 43.9
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 72,
+        "sentiment": 35.4
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 69,
+        "sentiment": 48.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-03-20",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-03-21",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-03-22",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-03-27": {
+    "summary": "[Mock] Gemini summary for the week of 2017-03-27. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 42,
+        "sentiment": 15.3
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 94,
+        "sentiment": 12.6
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 57,
+        "sentiment": 21.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-03-27",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-03-28",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-03-29",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-04-03": {
+    "summary": "[Mock] Gemini summary for the week of 2017-04-03. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 113,
+        "sentiment": 55.9
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 82,
+        "sentiment": 37.9
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 56,
+        "sentiment": 55.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-04-03",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-04-04",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-04-05",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-04-10": {
+    "summary": "[Mock] Gemini summary for the week of 2017-04-10. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 49,
+        "sentiment": 49.4
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 35,
+        "sentiment": 64.5
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 92,
+        "sentiment": 31
+      }
+    ],
+    "examples": [
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-04-10",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-04-11",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-04-12",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-04-17": {
+    "summary": "[Mock] Gemini summary for the week of 2017-04-17. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 33,
+        "sentiment": 17
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 49,
+        "sentiment": 44.9
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 67,
+        "sentiment": 25.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-04-17",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-04-18",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-04-19",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-04-24": {
+    "summary": "[Mock] Gemini summary for the week of 2017-04-24. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 41,
+        "sentiment": 53.7
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 94,
+        "sentiment": 28.8
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 91,
+        "sentiment": 53.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-04-24",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-04-25",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-04-26",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-05-01": {
+    "summary": "[Mock] Gemini summary for the week of 2017-05-01. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 65,
+        "sentiment": 63.9
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 85,
+        "sentiment": 33.8
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 101,
+        "sentiment": 54.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2017-05-01",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-05-02",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-05-03",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-05-08": {
+    "summary": "[Mock] Gemini summary for the week of 2017-05-08. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 44,
+        "sentiment": 43.5
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 98,
+        "sentiment": 28.5
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 119,
+        "sentiment": 30.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-05-08",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-05-09",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-05-10",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-05-15": {
+    "summary": "[Mock] Gemini summary for the week of 2017-05-15. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 42,
+        "sentiment": 20.8
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 33,
+        "sentiment": 40.7
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 114,
+        "sentiment": 54
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-05-15",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-05-16",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-05-17",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-05-22": {
+    "summary": "[Mock] Gemini summary for the week of 2017-05-22. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 88,
+        "sentiment": 36.4
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 36,
+        "sentiment": 27.8
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 54,
+        "sentiment": 36.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-05-22",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-05-23",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-05-24",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-05-29": {
+    "summary": "[Mock] Gemini summary for the week of 2017-05-29. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 34,
+        "sentiment": 6.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 44,
+        "sentiment": 5.2
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 71,
+        "sentiment": 12.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-05-29",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-05-30",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-05-31",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-06-05": {
+    "summary": "[Mock] Gemini summary for the week of 2017-06-05. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 87,
+        "sentiment": 3.7
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 94,
+        "sentiment": 9.6
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 87,
+        "sentiment": 40.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-06-05",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-06-06",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-06-07",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-06-12": {
+    "summary": "[Mock] Gemini summary for the week of 2017-06-12. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 104,
+        "sentiment": 8.6
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 56,
+        "sentiment": 22.1
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 72,
+        "sentiment": 0.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-06-12",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-06-13",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-06-14",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-06-19": {
+    "summary": "[Mock] Gemini summary for the week of 2017-06-19. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 53,
+        "sentiment": 0.4
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 111,
+        "sentiment": -8
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 80,
+        "sentiment": -4.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-06-19",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-06-20",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-06-21",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-06-26": {
+    "summary": "[Mock] Gemini summary for the week of 2017-06-26. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 1,
+        "sentiment": 16.5
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 3,
+        "sentiment": 18.5
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 2,
+        "sentiment": 31
+      }
+    ],
+    "examples": [
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-06-26",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-06-27",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-06-28",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-07-03": {
+    "summary": "[Mock] Gemini summary for the week of 2017-07-03. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 39,
+        "sentiment": -13.6
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 61,
+        "sentiment": 12.1
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 101,
+        "sentiment": -25.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-07-03",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-07-04",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-07-05",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-07-10": {
+    "summary": "[Mock] Gemini summary for the week of 2017-07-10. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 37,
+        "sentiment": 8.5
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 59,
+        "sentiment": -7.5
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 106,
+        "sentiment": -22.7
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-07-10",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-07-11",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-07-12",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-07-17": {
+    "summary": "[Mock] Gemini summary for the week of 2017-07-17. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 54,
+        "sentiment": 14.1
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 93,
+        "sentiment": -0.1
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 68,
+        "sentiment": 9.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-07-17",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-07-18",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-07-19",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-07-24": {
+    "summary": "[Mock] Gemini summary for the week of 2017-07-24. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 107,
+        "sentiment": -12.3
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 94,
+        "sentiment": 9.8
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 39,
+        "sentiment": 0.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-07-24",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-07-25",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-07-26",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-07-31": {
+    "summary": "[Mock] Gemini summary for the week of 2017-07-31. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 118,
+        "sentiment": 9.3
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 73,
+        "sentiment": -0.8
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 107,
+        "sentiment": 0.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-07-31",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-08-01",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-08-02",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-08-07": {
+    "summary": "[Mock] Gemini summary for the week of 2017-08-07. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 48,
+        "sentiment": -10.2
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 45,
+        "sentiment": 12.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 84,
+        "sentiment": -8.1
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-08-07",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-08-08",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-08-09",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-08-14": {
+    "summary": "[Mock] Gemini summary for the week of 2017-08-14. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 115,
+        "sentiment": 14.4
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 113,
+        "sentiment": 3.2
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 80,
+        "sentiment": 3.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2017-08-14",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-08-15",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-08-16",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-08-21": {
+    "summary": "[Mock] Gemini summary for the week of 2017-08-21. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 64,
+        "sentiment": 11.3
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 82,
+        "sentiment": -10.3
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 51,
+        "sentiment": -22.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-08-21",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-08-22",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-08-23",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-08-28": {
+    "summary": "[Mock] Gemini summary for the week of 2017-08-28. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 68,
+        "sentiment": -9.7
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 63,
+        "sentiment": 20.2
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 116,
+        "sentiment": 0.6
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-08-28",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-08-29",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-08-30",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-09-04": {
+    "summary": "[Mock] Gemini summary for the week of 2017-09-04. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 115,
+        "sentiment": 19.2
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 119,
+        "sentiment": 16.2
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 109,
+        "sentiment": 27
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-09-04",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-09-05",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-09-06",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-09-11": {
+    "summary": "[Mock] Gemini summary for the week of 2017-09-11. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 57,
+        "sentiment": 41.5
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 110,
+        "sentiment": 7.5
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 60,
+        "sentiment": 8.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-09-11",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-09-12",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-09-13",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-09-18": {
+    "summary": "[Mock] Gemini summary for the week of 2017-09-18. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 106,
+        "sentiment": 13.4
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 118,
+        "sentiment": 15.3
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 96,
+        "sentiment": -2.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-09-18",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-09-19",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-09-20",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-09-25": {
+    "summary": "[Mock] Gemini summary for the week of 2017-09-25. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 31,
+        "sentiment": 16.7
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 52,
+        "sentiment": 8.7
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 95,
+        "sentiment": 16.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-09-25",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-09-26",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-09-27",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-10-02": {
+    "summary": "[Mock] Gemini summary for the week of 2017-10-02. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 53,
+        "sentiment": 17
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 97,
+        "sentiment": 18.3
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 64,
+        "sentiment": 45.8
+      }
+    ],
+    "examples": [
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-10-02",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-10-03",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-10-04",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-10-09": {
+    "summary": "[Mock] Gemini summary for the week of 2017-10-09. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 89,
+        "sentiment": 7.3
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 52,
+        "sentiment": 16
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 35,
+        "sentiment": -4
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-10-09",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-10-10",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-10-11",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-10-16": {
+    "summary": "[Mock] Gemini summary for the week of 2017-10-16. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 88,
+        "sentiment": 1.9
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 68,
+        "sentiment": 3.9
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 84,
+        "sentiment": 21
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-10-16",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-10-17",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-10-18",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-10-23": {
+    "summary": "[Mock] Gemini summary for the week of 2017-10-23. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 103,
+        "sentiment": 17.8
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 33,
+        "sentiment": 38.7
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 46,
+        "sentiment": 13.5
+      }
+    ],
+    "examples": [
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-10-23",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-10-24",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-10-25",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-10-30": {
+    "summary": "[Mock] Gemini summary for the week of 2017-10-30. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 68,
+        "sentiment": 3.8
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 68,
+        "sentiment": 10.8
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 43,
+        "sentiment": 4.1
+      }
+    ],
+    "examples": [
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-10-30",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-10-31",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-11-01",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-11-06": {
+    "summary": "[Mock] Gemini summary for the week of 2017-11-06. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 99,
+        "sentiment": 40.1
+      },
+      {
+        "name": "G502 gaming mouse",
+        "reviews": 75,
+        "sentiment": 5.3
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 98,
+        "sentiment": 17.2
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2017-11-06",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G502 gaming mouse",
+        "date": "2017-11-07",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-11-08",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-11-13": {
+    "summary": "[Mock] Gemini summary for the week of 2017-11-13. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 66,
+        "sentiment": 30.5
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 78,
+        "sentiment": 22.7
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 100,
+        "sentiment": 6.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2017-11-13",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-11-14",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-11-15",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-11-20": {
+    "summary": "[Mock] Gemini summary for the week of 2017-11-20. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Z313 speakers",
+        "reviews": 89,
+        "sentiment": 15.7
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 39,
+        "sentiment": 19.1
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 94,
+        "sentiment": 14.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "Z313 speakers",
+        "date": "2017-11-20",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-11-21",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-11-22",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-11-27": {
+    "summary": "[Mock] Gemini summary for the week of 2017-11-27. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 35,
+        "sentiment": 21.8
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 39,
+        "sentiment": 32.4
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 118,
+        "sentiment": 15.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-11-27",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-11-28",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-11-29",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-12-04": {
+    "summary": "[Mock] Gemini summary for the week of 2017-12-04. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 83,
+        "sentiment": 53.5
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 48,
+        "sentiment": 22.7
+      },
+      {
+        "name": "G430 gaming headset",
+        "reviews": 90,
+        "sentiment": 49
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2017-12-04",
+        "stars": 4,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-12-05",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-12-06",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-12-11": {
+    "summary": "[Mock] Gemini summary for the week of 2017-12-11. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "C920 HD webcam",
+        "reviews": 83,
+        "sentiment": 57.2
+      },
+      {
+        "name": "K380 Bluetooth keyboard",
+        "reviews": 59,
+        "sentiment": 29.1
+      },
+      {
+        "name": "Harmony remote",
+        "reviews": 78,
+        "sentiment": 61.9
+      }
+    ],
+    "examples": [
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-12-11",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "K380 Bluetooth keyboard",
+        "date": "2017-12-12",
+        "stars": 2,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Harmony remote",
+        "date": "2017-12-13",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-12-18": {
+    "summary": "[Mock] Gemini summary for the week of 2017-12-18. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "Harmony remote",
+        "reviews": 3,
+        "sentiment": 45.1
+      },
+      {
+        "name": "M330 Silent mouse",
+        "reviews": 2,
+        "sentiment": 42.2
+      },
+      {
+        "name": "C920 HD webcam",
+        "reviews": 2,
+        "sentiment": 52.4
+      }
+    ],
+    "examples": [
+      {
+        "product": "Harmony remote",
+        "date": "2017-12-18",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "M330 Silent mouse",
+        "date": "2017-12-19",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "C920 HD webcam",
+        "date": "2017-12-20",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  },
+  "2017-12-25": {
+    "summary": "[Mock] Gemini summary for the week of 2017-12-25. Replace with the pipeline output.",
+    "products": [
+      {
+        "name": "G430 gaming headset",
+        "reviews": 82,
+        "sentiment": 61.4
+      },
+      {
+        "name": "MX Master wireless mouse",
+        "reviews": 33,
+        "sentiment": 69.4
+      },
+      {
+        "name": "Z313 speakers",
+        "reviews": 48,
+        "sentiment": 62.3
+      }
+    ],
+    "examples": [
+      {
+        "product": "G430 gaming headset",
+        "date": "2017-12-25",
+        "stars": 1,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "MX Master wireless mouse",
+        "date": "2017-12-26",
+        "stars": 3,
+        "text": "[Mock review text for layout testing.]"
+      },
+      {
+        "product": "Z313 speakers",
+        "date": "2017-12-27",
+        "stars": 5,
+        "text": "[Mock review text for layout testing.]"
+      }
+    ]
+  }
+}
